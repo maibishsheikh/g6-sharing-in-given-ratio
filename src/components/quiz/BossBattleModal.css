@@ -1,0 +1,137 @@
+/* src/components/quiz/BossBattleModal.css */
+.boss-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(10, 10, 35, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 250;
+  padding: 16px;
+  box-sizing: border-box;
+}
+
+.boss-modal-card {
+  width: 100%;
+  max-width: 540px;
+  padding: clamp(24px, 4vw, 36px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 14px;
+  border-radius: var(--radius-lg);
+  border: 1.5px solid rgba(255, 179, 0, 0.4);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
+  box-sizing: border-box;
+}
+
+.boss-modal-card.battle-mode {
+  max-width: 760px;
+  padding: 20px 26px;
+  gap: 12px;
+}
+
+.boss-avatar-pulse {
+  width: 76px;
+  height: 76px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255, 179, 0, 0.4) 0%, rgba(255, 112, 67, 0.8) 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0 24px rgba(255, 179, 0, 0.6);
+  animation: pulse 2s infinite ease-in-out;
+}
+
+.boss-emoji {
+  font-size: 2.8rem;
+  line-height: 1;
+}
+
+.boss-title {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: clamp(1.6rem, 2.5vw, 2.2rem);
+  color: var(--gold);
+  margin: 0;
+}
+
+.boss-desc {
+  font-family: var(--font-body);
+  font-size: 1.15rem;
+  font-weight: 700;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin: 0;
+}
+
+.boss-lives-preview {
+  font-size: 1.4rem;
+  letter-spacing: 5px;
+  margin: 4px 0;
+}
+
+.boss-reward-preview {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 8px 18px;
+  border-radius: var(--radius-pill);
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: #fff;
+}
+
+.boss-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+  max-width: 280px;
+  margin-top: 8px;
+}
+
+/* Battle Mode HUD */
+.boss-hud {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.35);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: var(--radius-pill);
+  padding: 8px 18px;
+  box-sizing: border-box;
+}
+
+.boss-hud-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.boss-hud-emoji {
+  font-size: 1.5rem;
+}
+
+.boss-hud-name {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1.1rem;
+  color: var(--gold);
+}
+
+.boss-hud-lives {
+  font-size: 1.25rem;
+  letter-spacing: 3px;
+}
+
+.boss-hud-progress {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1rem;
+  color: var(--text-muted);
+}

@@ -1,0 +1,474 @@
+/* src/components/phases/ReflectPhase.css */
+
+.reflect-wrap {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: clamp(12px, 2vh, 24px) clamp(10px, 2vw, 20px) 40px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  width: 100%;
+  box-sizing: border-box;
+  -webkit-overflow-scrolling: touch;
+}
+
+.reflect-card {
+  width: 100%;
+  max-width: 820px;
+  padding: clamp(16px, 2.5vw, 28px);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  box-sizing: border-box;
+  background: rgba(22, 18, 52, 0.85);
+  border: 1.5px solid rgba(255, 255, 255, 0.15);
+  border-radius: var(--radius-lg, 22px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.45);
+}
+
+/* ─── Header & Step Tabs ─── */
+.reflect-header {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 14px;
+}
+
+.reflect-title-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.reflect-header-icon {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: rgba(255, 193, 7, 0.2);
+  border: 1.5px solid #ffc107;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.4rem;
+  flex-shrink: 0;
+}
+
+.reflect-title-col {
+  display: flex;
+  flex-direction: column;
+}
+
+.reflect-title {
+  color: #fff;
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: clamp(1.3rem, 2vw, 1.8rem);
+  margin: 0;
+}
+
+.reflect-subtitle {
+  color: #94a3b8;
+  font-size: 0.85rem;
+  font-weight: 700;
+}
+
+.reflect-stepper-tabs {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 2px;
+  scrollbar-width: none;
+}
+
+.reflect-stepper-tabs::-webkit-scrollbar {
+  display: none;
+}
+
+.reflect-step-tab {
+  flex: 1;
+  min-width: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1.5px solid rgba(255, 255, 255, 0.12);
+  color: #cbd5e1;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 0.85rem;
+  cursor: pointer;
+  transition: all var(--transition-fast, 0.18s ease);
+  white-space: nowrap;
+}
+
+.reflect-step-tab:hover {
+  background: rgba(255, 255, 255, 0.12);
+  border-color: rgba(255, 193, 7, 0.4);
+}
+
+.reflect-step-tab.active {
+  background: rgba(255, 193, 7, 0.25);
+  border-color: #ffc107;
+  color: #fcd34d;
+  box-shadow: 0 0 14px rgba(255, 193, 7, 0.3);
+}
+
+.reflect-step-tab.done {
+  background: rgba(34, 197, 94, 0.15);
+  border-color: #4ade80;
+  color: #4ade80;
+}
+
+.step-tab-icon {
+  font-size: 0.95rem;
+}
+
+/* ─── Focused Question Card ─── */
+.reflect-focused-card {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.reflect-q-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.q-scenario-pill {
+  background: rgba(99, 102, 241, 0.2);
+  border: 1px solid #818cf8;
+  color: #c7d2fe;
+  font-family: var(--font-display);
+  font-size: 0.82rem;
+  font-weight: 800;
+  padding: 3px 10px;
+  border-radius: 999px;
+}
+
+.q-progress-tag {
+  color: #fcd34d;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 0.85rem;
+}
+
+.reflect-q-text {
+  font-family: var(--font-display);
+  font-size: clamp(1.05rem, 1.4vw, 1.25rem);
+  font-weight: 800;
+  color: #ffffff;
+  line-height: 1.45;
+  margin: 0;
+}
+
+/* ─── Accessible Options Stack ─── */
+.reflect-options-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.reflect-opt-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1.5px solid rgba(255, 255, 255, 0.14);
+  border-radius: 14px;
+  padding: 12px 16px;
+  min-height: 52px;
+  color: #e2e8f0;
+  font-family: var(--font-body);
+  font-weight: 700;
+  font-size: 0.98rem;
+  text-align: left;
+  cursor: pointer;
+  transition: all var(--transition-fast, 0.18s ease);
+  box-sizing: border-box;
+}
+
+.reflect-opt-item:hover {
+  background: rgba(255, 193, 7, 0.12);
+  border-color: #f59e0b;
+  transform: translateX(3px);
+}
+
+.reflect-opt-item.chosen-opt {
+  background: rgba(245, 158, 11, 0.2);
+  border-color: #f59e0b;
+  color: #fff;
+}
+
+.reflect-opt-item.correct-opt {
+  background: rgba(34, 197, 94, 0.2);
+  border-color: #4ade80;
+  color: #fff;
+  box-shadow: 0 0 14px rgba(74, 222, 128, 0.25);
+}
+
+.opt-letter-badge {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.12);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 0.9rem;
+  color: #fcd34d;
+  flex-shrink: 0;
+}
+
+.opt-text {
+  flex: 1;
+  line-height: 1.35;
+}
+
+.opt-check-mark {
+  color: #4ade80;
+  font-size: 1.2rem;
+  font-weight: 900;
+}
+
+/* ─── Takeaway Banner ─── */
+.reflect-takeaway-banner {
+  background: rgba(34, 197, 94, 0.15);
+  border: 1.5px solid #4ade80;
+  border-radius: 12px;
+  padding: 10px 14px;
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  color: #86efac;
+  font-size: 0.92rem;
+  line-height: 1.4;
+}
+
+.takeaway-icon {
+  font-size: 1.1rem;
+}
+
+/* ─── Navigation Actions ─── */
+.reflect-nav-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+/* ─── Step 3: Journal ─── */
+.reflect-journal-step {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.journal-header-box {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.journal-title {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 900;
+  color: #fcd34d;
+  margin: 0;
+}
+
+.journal-desc {
+  font-size: 0.92rem;
+  color: #cbd5e1;
+  line-height: 1.4;
+  margin: 0;
+}
+
+.reflect-journal-box {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.journal-field-label {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 0.9rem;
+  color: #e2e8f0;
+}
+
+.journal-textarea {
+  background: rgba(15, 15, 45, 0.7);
+  border: 1.5px solid rgba(255, 255, 255, 0.2);
+  border-radius: 12px;
+  padding: 12px 14px;
+  color: #fff;
+  font-family: var(--font-body);
+  font-size: 0.95rem;
+  line-height: 1.4;
+  resize: vertical;
+  box-sizing: border-box;
+  outline: none;
+  transition: border-color var(--transition-fast, 0.18s ease);
+}
+
+.journal-textarea:focus {
+  border-color: #f59e0b;
+}
+
+.reflect-mascot-box {
+  padding: 4px 0;
+}
+
+.reflect-final-actions {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+
+.reflect-submit-btn {
+  font-size: 1.05rem;
+  font-weight: 800;
+  padding: 12px 24px;
+}
+
+/* ─── Final Celebratory Trophy Card ─── */
+.trophy-card {
+  width: 100%;
+  max-width: 680px;
+  padding: clamp(20px, 3.5vw, 36px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 16px;
+  background: rgba(22, 18, 52, 0.9);
+  border: 2px solid #ffd54f;
+  border-radius: 24px;
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.5);
+  box-sizing: border-box;
+}
+
+.trophy-icon {
+  font-size: clamp(3rem, 5vw, 4.2rem);
+  animation: pulseIcon 2s infinite ease-in-out;
+}
+
+@keyframes pulseIcon {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+}
+
+.trophy-title {
+  color: #ffffff;
+  font-size: clamp(1.6rem, 2.8vw, 2.2rem);
+  font-weight: 900;
+  margin: 0;
+}
+
+.trophy-sub {
+  font-size: 1.1rem;
+  font-weight: 800;
+  margin: 0;
+}
+
+.trophy-stats {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  width: 100%;
+  max-width: 440px;
+}
+
+.trophy-stat {
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  border-radius: 14px;
+  padding: 10px 14px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+}
+
+.trophy-stat .stat-value {
+  color: #ffd54f;
+  font-size: 1.6rem;
+  font-weight: 900;
+  font-family: var(--font-display);
+}
+
+.trophy-stat .stat-label {
+  color: #94a3b8;
+  font-size: 0.8rem;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.trophy-badges-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  width: 100%;
+}
+
+.earned-badge-chip {
+  background: rgba(245, 158, 11, 0.18);
+  border: 1px solid #f59e0b;
+  border-radius: 999px;
+  padding: 5px 12px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: #fcd34d;
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+  font-weight: 800;
+}
+
+/* ─── Mobile Responsiveness ─── */
+@media (max-width: 600px) {
+  .reflect-title-row {
+    flex-direction: row;
+    gap: 8px;
+  }
+
+  .reflect-stepper-tabs {
+    justify-content: flex-start;
+  }
+
+  .reflect-step-tab {
+    min-width: 75px;
+    padding: 6px 10px;
+    font-size: 0.78rem;
+  }
+
+  .reflect-nav-actions,
+  .reflect-final-actions {
+    flex-direction: column;
+    width: 100%;
+    gap: 8px;
+  }
+
+  .reflect-nav-actions button,
+  .reflect-final-actions button {
+    width: 100%;
+  }
+
+  .trophy-stats {
+    grid-template-columns: 1fr;
+  }
+}

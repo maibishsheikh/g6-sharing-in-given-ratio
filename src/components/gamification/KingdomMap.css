@@ -1,0 +1,133 @@
+/* src/components/gamification/KingdomMap.css */
+.kingdom-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 14px;
+  width: 100%;
+  max-width: 900px;
+  margin: 14px auto;
+  box-sizing: border-box;
+}
+
+.kingdom-district-card {
+  background: rgba(255, 255, 255, 0.07);
+  border: 1.5px solid rgba(255, 255, 255, 0.16);
+  border-radius: 16px;
+  padding: 14px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+  cursor: pointer;
+  transition: var(--transition-fast);
+  user-select: none;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+.kingdom-district-card:hover:not(.locked) {
+  transform: translateY(-3px);
+  border-color: var(--gold);
+  background: rgba(255, 179, 0, 0.18);
+  box-shadow: 0 8px 20px rgba(255, 179, 0, 0.35);
+}
+
+.kingdom-district-card.current {
+  border-color: var(--gold);
+  background: rgba(255, 179, 0, 0.22);
+  box-shadow: 0 0 16px rgba(255, 179, 0, 0.5);
+}
+
+.kingdom-district-card.completed {
+  border-color: rgba(34, 197, 94, 0.5);
+  background: rgba(34, 197, 94, 0.12);
+}
+
+.kingdom-district-card.locked {
+  opacity: 0.45;
+  cursor: not-allowed;
+  filter: grayscale(0.5);
+}
+
+.district-icon-wrap {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.12);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.8rem;
+}
+
+.district-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 3px;
+  width: 100%;
+}
+
+.district-num {
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  font-weight: 800;
+  color: var(--text-muted);
+  text-transform: uppercase;
+}
+
+.district-name {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1rem;
+  color: #ffffff;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 100%;
+}
+
+.district-score-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 2px;
+}
+
+.district-score-fraction {
+  font-size: 0.85rem;
+  font-weight: 900;
+  color: #86efac;
+}
+
+.district-status {
+  font-size: 0.82rem;
+  font-weight: 800;
+  color: var(--text-muted);
+}
+
+.district-status.active-status {
+  color: var(--gold);
+  font-weight: 900;
+}
+
+@media (max-width: 768px) {
+  .kingdom-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .kingdom-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
+  .kingdom-district-card {
+    padding: 10px 8px;
+  }
+  .district-icon-wrap {
+    width: 40px;
+    height: 40px;
+    font-size: 1.4rem;
+  }
+}

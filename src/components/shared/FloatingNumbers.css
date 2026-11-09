@@ -1,0 +1,18 @@
+/* src/components/shared/FloatingNumbers.css */
+.floating-symbols-container {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+  z-index: 0;
+}
+
+.floating-money-symbol {
+  position: absolute;
+  font-family: var(--font-display);
+  font-weight: 800;
+  color: rgba(255, 255, 255, 0.08);
+  animation: floatAround infinite linear;
+  user-select: none;
+  white-space: nowrap;
+}

@@ -1,0 +1,3075 @@
+[
+  {
+    "id": 0,
+    "districtId": 0,
+    "category": "UNITS & FRACTIONS",
+    "visual": "unitBar",
+    "questionText": "Hui Min and Imran share some points in the ratio 7 : 3. How many equal units are there altogether?",
+    "options": [
+      "10",
+      "21",
+      "7",
+      "2"
+    ],
+    "correctAnswer": "10",
+    "explanation": "Total units is the sum of all terms in the ratio: 7 + 3 = 10 equal units.",
+    "hint1": "Add up the numbers in the ratio.",
+    "hint2": "Compute 7 + 3 to find the total number of units.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        7,
+        3
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "districtId": 0,
+    "category": "UNITS & FRACTIONS",
+    "visual": "unitBar",
+    "questionText": "Hui Min, Imran and Priya share the cupcakes in the ratio 3 : 2 : 6. What fraction of all the cupcakes does Hui Min get?",
+    "options": [
+      "2/3",
+      "3/11",
+      "3/2",
+      "2/11"
+    ],
+    "correctAnswer": "3/11",
+    "explanation": "Hui Min gets 3 units out of a total of 11 units (3 + 2 + 6). Expressed as a fraction of the whole in simplest form, that is 3/11.",
+    "hint1": "First find the total units: 3 + 2 + 6.",
+    "hint2": "Hui Min has 3 units out of 11 total units. Write as a fraction 3/11 and simplify.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        3,
+        2,
+        6
+      ],
+      "highlightIdx": 0
+    }
+  },
+  {
+    "id": 2,
+    "districtId": 0,
+    "category": "UNITS & FRACTIONS",
+    "visual": "unitBar",
+    "questionText": "Hui Min and Imran share the tokens in the ratio 1 : 7. What fraction of all the tokens does Hui Min get?",
+    "options": [
+      "7/8",
+      "1/8",
+      "1/7",
+      "7/1"
+    ],
+    "correctAnswer": "1/8",
+    "explanation": "Hui Min gets 1 units out of a total of 8 units (1 + 7). Expressed as a fraction of the whole in simplest form, that is 1/8.",
+    "hint1": "First find the total units: 1 + 7.",
+    "hint2": "Hui Min has 1 units out of 8 total units. Write as a fraction 1/8 and simplify.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        7
+      ],
+      "highlightIdx": 0
+    }
+  },
+  {
+    "id": 3,
+    "districtId": 0,
+    "category": "UNITS & FRACTIONS",
+    "visual": "unitBar",
+    "questionText": "Hui Min and Imran share the tokens in the ratio 3 : 1. What fraction of all the tokens does Imran get?",
+    "options": [
+      "1/3",
+      "3/1",
+      "1/4",
+      "3/4"
+    ],
+    "correctAnswer": "1/4",
+    "explanation": "Imran gets 1 units out of a total of 4 units (3 + 1). Expressed as a fraction of the whole in simplest form, that is 1/4.",
+    "hint1": "First find the total units: 3 + 1.",
+    "hint2": "Imran has 1 units out of 4 total units. Write as a fraction 1/4 and simplify.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        3,
+        1
+      ],
+      "highlightIdx": 1
+    }
+  },
+  {
+    "id": 4,
+    "districtId": 0,
+    "category": "UNITS & FRACTIONS",
+    "visual": "unitBar",
+    "questionText": "Hui Min, Imran and Priya share the points in the ratio 4 : 5 : 2. What fraction of all the points does Priya get?",
+    "options": [
+      "1/2",
+      "2/1",
+      "4/11",
+      "2/11"
+    ],
+    "correctAnswer": "2/11",
+    "explanation": "Priya gets 2 units out of a total of 11 units (4 + 5 + 2). Expressed as a fraction of the whole in simplest form, that is 2/11.",
+    "hint1": "First find the total units: 4 + 5 + 2.",
+    "hint2": "Priya has 2 units out of 11 total units. Write as a fraction 2/11 and simplify.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        4,
+        5,
+        2
+      ],
+      "highlightIdx": 2
+    }
+  },
+  {
+    "id": 5,
+    "districtId": 0,
+    "category": "UNITS & FRACTIONS",
+    "visual": "unitBar",
+    "questionText": "Hui Min and Imran share the tokens in the ratio 1 : 8. What fraction of all the tokens does Imran get?",
+    "options": [
+      "1/9",
+      "1/8",
+      "8/1",
+      "8/9"
+    ],
+    "correctAnswer": "8/9",
+    "explanation": "Imran gets 8 units out of a total of 9 units (1 + 8). Expressed as a fraction of the whole in simplest form, that is 8/9.",
+    "hint1": "First find the total units: 1 + 8.",
+    "hint2": "Imran has 8 units out of 9 total units. Write as a fraction 8/9 and simplify.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        8
+      ],
+      "highlightIdx": 1
+    }
+  },
+  {
+    "id": 6,
+    "districtId": 0,
+    "category": "UNITS & FRACTIONS",
+    "visual": "unitBar",
+    "questionText": "Hui Min, Imran and Priya share some points in the ratio 7 : 4 : 3. How many equal units are there altogether?",
+    "options": [
+      "7",
+      "14",
+      "3",
+      "84"
+    ],
+    "correctAnswer": "14",
+    "explanation": "Total units is the sum of all terms in the ratio: 7 + 4 + 3 = 14 equal units.",
+    "hint1": "Add up the numbers in the ratio.",
+    "hint2": "Compute 7 + 4 + 3 to find the total number of units.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        7,
+        4,
+        3
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "districtId": 0,
+    "category": "UNITS & FRACTIONS",
+    "visual": "unitBar",
+    "questionText": "Hui Min and Imran share some stickers in the ratio 1 : 8. How many equal units are there altogether?",
+    "options": [
+      "8",
+      "2",
+      "10",
+      "9"
+    ],
+    "correctAnswer": "9",
+    "explanation": "Total units is the sum of all terms in the ratio: 1 + 8 = 9 equal units.",
+    "hint1": "Add up the numbers in the ratio.",
+    "hint2": "Compute 1 + 8 to find the total number of units.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        8
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "districtId": 0,
+    "category": "UNITS & FRACTIONS",
+    "visual": "unitBar",
+    "questionText": "Hui Min and Imran share the stickers in the ratio 6 : 5. What fraction of all the stickers does Imran get?",
+    "options": [
+      "6/5",
+      "5/6",
+      "6/11",
+      "5/11"
+    ],
+    "correctAnswer": "5/11",
+    "explanation": "Imran gets 5 units out of a total of 11 units (6 + 5). Expressed as a fraction of the whole in simplest form, that is 5/11.",
+    "hint1": "First find the total units: 6 + 5.",
+    "hint2": "Imran has 5 units out of 11 total units. Write as a fraction 5/11 and simplify.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        6,
+        5
+      ],
+      "highlightIdx": 1
+    }
+  },
+  {
+    "id": 9,
+    "districtId": 0,
+    "category": "UNITS & FRACTIONS",
+    "visual": "unitBar",
+    "questionText": "Hui Min and Imran share the points in the ratio 2 : 5. What fraction of all the points does Hui Min get?",
+    "options": [
+      "5/2",
+      "2/5",
+      "2/7",
+      "5/7"
+    ],
+    "correctAnswer": "2/7",
+    "explanation": "Hui Min gets 2 units out of a total of 7 units (2 + 5). Expressed as a fraction of the whole in simplest form, that is 2/7.",
+    "hint1": "First find the total units: 2 + 5.",
+    "hint2": "Hui Min has 2 units out of 7 total units. Write as a fraction 2/7 and simplify.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        2,
+        5
+      ],
+      "highlightIdx": 0
+    }
+  },
+  {
+    "id": 10,
+    "districtId": 1,
+    "category": "TWO-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "Hui Min and Imran share 16 stickers in the ratio 1 : 7. How much does Hui Min get?",
+    "options": [
+      "2 stickers",
+      "14 stickers",
+      "1 sticker",
+      "8 stickers"
+    ],
+    "correctAnswer": "2 stickers",
+    "explanation": "Total units = 1 + 7 = 8. Value of 1 unit = 16 ÷ 8 = 2. Hui Min gets 1 units × 2 = 2 stickers. Check: 2 + 14 = 16 ✓.",
+    "hint1": "Find the value of 1 unit by dividing the total (16) by the total units (8).",
+    "hint2": "1 unit = 2. Multiply Hui Min's units (1) by 2.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        7
+      ],
+      "unit": 2,
+      "total": 16,
+      "askIndex": 0
+    }
+  },
+  {
+    "id": 11,
+    "districtId": 1,
+    "category": "TWO-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "Hui Min and Imran share 72 stickers in the ratio 7 : 2. How much does Hui Min get?",
+    "options": [
+      "56 stickers",
+      "16 stickers",
+      "36 stickers",
+      "8 stickers"
+    ],
+    "correctAnswer": "56 stickers",
+    "explanation": "Total units = 7 + 2 = 9. Value of 1 unit = 72 ÷ 9 = 8. Hui Min gets 7 units × 8 = 56 stickers. Check: 56 + 16 = 72 ✓.",
+    "hint1": "Find the value of 1 unit by dividing the total (72) by the total units (9).",
+    "hint2": "1 unit = 8. Multiply Hui Min's units (7) by 8.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        7,
+        2
+      ],
+      "unit": 8,
+      "total": 72,
+      "askIndex": 0
+    }
+  },
+  {
+    "id": 12,
+    "districtId": 1,
+    "category": "TWO-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "Hui Min and Imran share $96 in the ratio 5 : 7. How much does Hui Min get?",
+    "options": [
+      "$48",
+      "$40",
+      "$56",
+      "$8"
+    ],
+    "correctAnswer": "$40",
+    "explanation": "Total units = 5 + 7 = 12. Value of 1 unit = 96 ÷ 12 = 8. Hui Min gets 5 units × 8 = $40. Check: 40 + 56 = 96 ✓.",
+    "hint1": "Find the value of 1 unit by dividing the total (96) by the total units (12).",
+    "hint2": "1 unit = 8. Multiply Hui Min's units (5) by 8.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        5,
+        7
+      ],
+      "unit": 8,
+      "total": 96,
+      "askIndex": 0
+    }
+  },
+  {
+    "id": 13,
+    "districtId": 1,
+    "category": "TWO-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "Hui Min and Imran share 9 cupcakes in the ratio 1 : 2. How much does Hui Min get?",
+    "options": [
+      "9 cupcakes",
+      "6 cupcakes",
+      "1 cupcake",
+      "3 cupcakes"
+    ],
+    "correctAnswer": "3 cupcakes",
+    "explanation": "Total units = 1 + 2 = 3. Value of 1 unit = 9 ÷ 3 = 3. Hui Min gets 1 units × 3 = 3 cupcakes. Check: 3 + 6 = 9 ✓.",
+    "hint1": "Find the value of 1 unit by dividing the total (9) by the total units (3).",
+    "hint2": "1 unit = 3. Multiply Hui Min's units (1) by 3.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        2
+      ],
+      "unit": 3,
+      "total": 9,
+      "askIndex": 0
+    }
+  },
+  {
+    "id": 14,
+    "districtId": 1,
+    "category": "TWO-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "Hui Min and Imran share 150 tickets in the ratio 5 : 1. How much does Imran get?",
+    "options": [
+      "75 tickets",
+      "1 ticket",
+      "125 tickets",
+      "25 tickets"
+    ],
+    "correctAnswer": "25 tickets",
+    "explanation": "Total units = 5 + 1 = 6. Value of 1 unit = 150 ÷ 6 = 25. Imran gets 1 units × 25 = 25 tickets. Check: 125 + 25 = 150 ✓.",
+    "hint1": "Find the value of 1 unit by dividing the total (150) by the total units (6).",
+    "hint2": "1 unit = 25. Multiply Imran's units (1) by 25.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        5,
+        1
+      ],
+      "unit": 25,
+      "total": 150,
+      "askIndex": 1
+    }
+  },
+  {
+    "id": 15,
+    "districtId": 1,
+    "category": "TWO-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "Hui Min and Imran share 21 tickets in the ratio 3 : 4. How much does Imran get?",
+    "options": [
+      "9 tickets",
+      "3 tickets",
+      "12 tickets",
+      "4 tickets"
+    ],
+    "correctAnswer": "12 tickets",
+    "explanation": "Total units = 3 + 4 = 7. Value of 1 unit = 21 ÷ 7 = 3. Imran gets 4 units × 3 = 12 tickets. Check: 9 + 12 = 21 ✓.",
+    "hint1": "Find the value of 1 unit by dividing the total (21) by the total units (7).",
+    "hint2": "1 unit = 3. Multiply Imran's units (4) by 3.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        3,
+        4
+      ],
+      "unit": 3,
+      "total": 21,
+      "askIndex": 1
+    }
+  },
+  {
+    "id": 16,
+    "districtId": 1,
+    "category": "TWO-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "Hui Min and Imran share 200 tokens in the ratio 7 : 1. How much does Hui Min get?",
+    "options": [
+      "175 tokens",
+      "100 tokens",
+      "25 tokens",
+      "7 tokens"
+    ],
+    "correctAnswer": "175 tokens",
+    "explanation": "Total units = 7 + 1 = 8. Value of 1 unit = 200 ÷ 8 = 25. Hui Min gets 7 units × 25 = 175 tokens. Check: 175 + 25 = 200 ✓.",
+    "hint1": "Find the value of 1 unit by dividing the total (200) by the total units (8).",
+    "hint2": "1 unit = 25. Multiply Hui Min's units (7) by 25.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        7,
+        1
+      ],
+      "unit": 25,
+      "total": 200,
+      "askIndex": 0
+    }
+  },
+  {
+    "id": 17,
+    "districtId": 1,
+    "category": "TWO-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "Hui Min and Imran share 110 cupcakes in the ratio 6 : 5. How much does Imran get?",
+    "options": [
+      "60 cupcakes",
+      "50 cupcakes",
+      "55 cupcakes",
+      "10 cupcakes"
+    ],
+    "correctAnswer": "50 cupcakes",
+    "explanation": "Total units = 6 + 5 = 11. Value of 1 unit = 110 ÷ 11 = 10. Imran gets 5 units × 10 = 50 cupcakes. Check: 60 + 50 = 110 ✓.",
+    "hint1": "Find the value of 1 unit by dividing the total (110) by the total units (11).",
+    "hint2": "1 unit = 10. Multiply Imran's units (5) by 10.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        6,
+        5
+      ],
+      "unit": 10,
+      "total": 110,
+      "askIndex": 1
+    }
+  },
+  {
+    "id": 18,
+    "districtId": 1,
+    "category": "TWO-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "Hui Min and Imran share 120 tokens in the ratio 7 : 3. How much does Hui Min get?",
+    "options": [
+      "84 tokens",
+      "36 tokens",
+      "60 tokens",
+      "12 tokens"
+    ],
+    "correctAnswer": "84 tokens",
+    "explanation": "Total units = 7 + 3 = 10. Value of 1 unit = 120 ÷ 10 = 12. Hui Min gets 7 units × 12 = 84 tokens. Check: 84 + 36 = 120 ✓.",
+    "hint1": "Find the value of 1 unit by dividing the total (120) by the total units (10).",
+    "hint2": "1 unit = 12. Multiply Hui Min's units (7) by 12.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        7,
+        3
+      ],
+      "unit": 12,
+      "total": 120,
+      "askIndex": 0
+    }
+  },
+  {
+    "id": 19,
+    "districtId": 1,
+    "category": "TWO-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "Hui Min and Imran share $64 in the ratio 3 : 5. How much does Imran get?",
+    "options": [
+      "$24",
+      "$8",
+      "$40",
+      "$32"
+    ],
+    "correctAnswer": "$40",
+    "explanation": "Total units = 3 + 5 = 8. Value of 1 unit = 64 ÷ 8 = 8. Imran gets 5 units × 8 = $40. Check: 24 + 40 = 64 ✓.",
+    "hint1": "Find the value of 1 unit by dividing the total (64) by the total units (8).",
+    "hint2": "1 unit = 8. Multiply Imran's units (5) by 8.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        3,
+        5
+      ],
+      "unit": 8,
+      "total": 64,
+      "askIndex": 1
+    }
+  },
+  {
+    "id": 20,
+    "districtId": 2,
+    "category": "THREE-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "96 tokens is shared among Hui Min, Imran and Priya in the ratio 3 : 2 : 7. How much does Hui Min receive?",
+    "options": [
+      "16 tokens",
+      "8 tokens",
+      "24 tokens",
+      "32 tokens"
+    ],
+    "correctAnswer": "24 tokens",
+    "explanation": "Total units = 3 + 2 + 7 = 12. Value of 1 unit = 96 ÷ 12 = 8. Hui Min receives 3 units × 8 = 24 tokens.",
+    "hint1": "Add all three terms to find total units: 3 + 2 + 7 = 12.",
+    "hint2": "Divide the total (96) by 12 to get 1 unit (8), then multiply by 3.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        3,
+        2,
+        7
+      ],
+      "unit": 8,
+      "total": 96,
+      "askIndex": 0
+    }
+  },
+  {
+    "id": 21,
+    "districtId": 2,
+    "category": "THREE-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "32 points is shared among Hui Min, Imran and Priya in the ratio 3 : 1 : 4. How much does Hui Min receive?",
+    "options": [
+      "4 points",
+      "12 points",
+      "16 points",
+      "3 points"
+    ],
+    "correctAnswer": "12 points",
+    "explanation": "Total units = 3 + 1 + 4 = 8. Value of 1 unit = 32 ÷ 8 = 4. Hui Min receives 3 units × 4 = 12 points.",
+    "hint1": "Add all three terms to find total units: 3 + 1 + 4 = 8.",
+    "hint2": "Divide the total (32) by 8 to get 1 unit (4), then multiply by 3.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        3,
+        1,
+        4
+      ],
+      "unit": 4,
+      "total": 32,
+      "askIndex": 0
+    }
+  },
+  {
+    "id": 22,
+    "districtId": 2,
+    "category": "THREE-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "200 cupcakes is shared among Hui Min, Imran and Priya in the ratio 2 : 5 : 1. How much does Imran receive?",
+    "options": [
+      "125 cupcakes",
+      "50 cupcakes",
+      "25 cupcakes",
+      "5 cupcakes"
+    ],
+    "correctAnswer": "125 cupcakes",
+    "explanation": "Total units = 2 + 5 + 1 = 8. Value of 1 unit = 200 ÷ 8 = 25. Imran receives 5 units × 25 = 125 cupcakes.",
+    "hint1": "Add all three terms to find total units: 2 + 5 + 1 = 8.",
+    "hint2": "Divide the total (200) by 8 to get 1 unit (25), then multiply by 5.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        2,
+        5,
+        1
+      ],
+      "unit": 25,
+      "total": 200,
+      "askIndex": 1
+    }
+  },
+  {
+    "id": 23,
+    "districtId": 2,
+    "category": "THREE-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "135 tokens is shared among Hui Min, Imran and Priya in the ratio 3 : 5 : 1. How much does Priya receive?",
+    "options": [
+      "45 tokens",
+      "75 tokens",
+      "15 tokens",
+      "1 token"
+    ],
+    "correctAnswer": "15 tokens",
+    "explanation": "Total units = 3 + 5 + 1 = 9. Value of 1 unit = 135 ÷ 9 = 15. Priya receives 1 units × 15 = 15 tokens.",
+    "hint1": "Add all three terms to find total units: 3 + 5 + 1 = 9.",
+    "hint2": "Divide the total (135) by 9 to get 1 unit (15), then multiply by 1.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        3,
+        5,
+        1
+      ],
+      "unit": 15,
+      "total": 135,
+      "askIndex": 2
+    }
+  },
+  {
+    "id": 24,
+    "districtId": 2,
+    "category": "THREE-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "70 points is shared among Hui Min, Imran and Priya in the ratio 1 : 6 : 7. How much does Priya receive?",
+    "options": [
+      "5 points",
+      "35 points",
+      "7 points",
+      "30 points"
+    ],
+    "correctAnswer": "35 points",
+    "explanation": "Total units = 1 + 6 + 7 = 14. Value of 1 unit = 70 ÷ 14 = 5. Priya receives 7 units × 5 = 35 points.",
+    "hint1": "Add all three terms to find total units: 1 + 6 + 7 = 14.",
+    "hint2": "Divide the total (70) by 14 to get 1 unit (5), then multiply by 7.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        1,
+        6,
+        7
+      ],
+      "unit": 5,
+      "total": 70,
+      "askIndex": 2
+    }
+  },
+  {
+    "id": 25,
+    "districtId": 2,
+    "category": "THREE-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "104 tokens is shared among Hui Min, Imran and Priya in the ratio 7 : 5 : 1. How much does Priya receive?",
+    "options": [
+      "1 token",
+      "40 tokens",
+      "8 tokens",
+      "56 tokens"
+    ],
+    "correctAnswer": "8 tokens",
+    "explanation": "Total units = 7 + 5 + 1 = 13. Value of 1 unit = 104 ÷ 13 = 8. Priya receives 1 units × 8 = 8 tokens.",
+    "hint1": "Add all three terms to find total units: 7 + 5 + 1 = 13.",
+    "hint2": "Divide the total (104) by 13 to get 1 unit (8), then multiply by 1.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        7,
+        5,
+        1
+      ],
+      "unit": 8,
+      "total": 104,
+      "askIndex": 2
+    }
+  },
+  {
+    "id": 26,
+    "districtId": 2,
+    "category": "THREE-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "72 tokens is shared among Hui Min, Imran and Priya in the ratio 4 : 3 : 5. How much does Hui Min receive?",
+    "options": [
+      "30 tokens",
+      "6 tokens",
+      "18 tokens",
+      "24 tokens"
+    ],
+    "correctAnswer": "24 tokens",
+    "explanation": "Total units = 4 + 3 + 5 = 12. Value of 1 unit = 72 ÷ 12 = 6. Hui Min receives 4 units × 6 = 24 tokens.",
+    "hint1": "Add all three terms to find total units: 4 + 3 + 5 = 12.",
+    "hint2": "Divide the total (72) by 12 to get 1 unit (6), then multiply by 4.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        4,
+        3,
+        5
+      ],
+      "unit": 6,
+      "total": 72,
+      "askIndex": 0
+    }
+  },
+  {
+    "id": 27,
+    "districtId": 2,
+    "category": "THREE-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "$90 is shared among Hui Min, Imran and Priya in the ratio 2 : 1 : 3. How much does Imran receive?",
+    "options": [
+      "$15",
+      "$30",
+      "$1",
+      "$45"
+    ],
+    "correctAnswer": "$15",
+    "explanation": "Total units = 2 + 1 + 3 = 6. Value of 1 unit = 90 ÷ 6 = 15. Imran receives 1 units × 15 = $15.",
+    "hint1": "Add all three terms to find total units: 2 + 1 + 3 = 6.",
+    "hint2": "Divide the total (90) by 6 to get 1 unit (15), then multiply by 1.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        2,
+        1,
+        3
+      ],
+      "unit": 15,
+      "total": 90,
+      "askIndex": 1
+    }
+  },
+  {
+    "id": 28,
+    "districtId": 2,
+    "category": "THREE-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "120 stickers is shared among Hui Min, Imran and Priya in the ratio 3 : 4 : 1. How much does Hui Min receive?",
+    "options": [
+      "15 stickers",
+      "60 stickers",
+      "45 stickers",
+      "40 stickers"
+    ],
+    "correctAnswer": "45 stickers",
+    "explanation": "Total units = 3 + 4 + 1 = 8. Value of 1 unit = 120 ÷ 8 = 15. Hui Min receives 3 units × 15 = 45 stickers.",
+    "hint1": "Add all three terms to find total units: 3 + 4 + 1 = 8.",
+    "hint2": "Divide the total (120) by 8 to get 1 unit (15), then multiply by 3.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        3,
+        4,
+        1
+      ],
+      "unit": 15,
+      "total": 120,
+      "askIndex": 0
+    }
+  },
+  {
+    "id": 29,
+    "districtId": 2,
+    "category": "THREE-PART SHARING",
+    "visual": "shareBar",
+    "questionText": "66 stickers is shared among Hui Min, Imran and Priya in the ratio 1 : 6 : 4. How much does Priya receive?",
+    "options": [
+      "24 stickers",
+      "6 stickers",
+      "36 stickers",
+      "22 stickers"
+    ],
+    "correctAnswer": "24 stickers",
+    "explanation": "Total units = 1 + 6 + 4 = 11. Value of 1 unit = 66 ÷ 11 = 6. Priya receives 4 units × 6 = 24 stickers.",
+    "hint1": "Add all three terms to find total units: 1 + 6 + 4 = 11.",
+    "hint2": "Divide the total (66) by 11 to get 1 unit (6), then multiply by 4.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        1,
+        6,
+        4
+      ],
+      "unit": 6,
+      "total": 66,
+      "askIndex": 2
+    }
+  },
+  {
+    "id": 30,
+    "districtId": 3,
+    "category": "GIVEN ONE SHARE",
+    "visual": "givenBar",
+    "questionText": "Hui Min and Imran share some cupcakes in the ratio 8 : 3. Imran gets 30 cupcakes. How many cupcakes are there altogether?",
+    "options": [
+      "110 cupcakes",
+      "80 cupcakes",
+      "10 cupcakes",
+      "330 cupcakes"
+    ],
+    "correctAnswer": "110 cupcakes",
+    "explanation": "Imran's share is 3 units = 30 cupcakes, so 1 unit = 30 ÷ 3 = 10. Total units = 11. Total cupcakes = 11 × 10 = 110 cupcakes.",
+    "hint1": "Use Imran's share (30) to find the value of 1 unit: divide by 3.",
+    "hint2": "1 unit = 10. Multiply by the total units (11).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        8,
+        3
+      ],
+      "knownIndex": 1,
+      "knownValue": 30,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 31,
+    "districtId": 3,
+    "category": "GIVEN ONE SHARE",
+    "visual": "givenBar",
+    "questionText": "Hui Min and Imran share some tickets in the ratio 8 : 1. Imran gets 5 tickets. How many tickets are there altogether?",
+    "options": [
+      "45 tickets",
+      "10 tickets",
+      "5 tickets",
+      "40 tickets"
+    ],
+    "correctAnswer": "45 tickets",
+    "explanation": "Imran's share is 1 units = 5 tickets, so 1 unit = 5 ÷ 1 = 5. Total units = 9. Total tickets = 9 × 5 = 45 tickets.",
+    "hint1": "Use Imran's share (5) to find the value of 1 unit: divide by 1.",
+    "hint2": "1 unit = 5. Multiply by the total units (9).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        8,
+        1
+      ],
+      "knownIndex": 1,
+      "knownValue": 5,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 32,
+    "districtId": 3,
+    "category": "GIVEN ONE SHARE",
+    "visual": "givenBar",
+    "questionText": "Hui Min, Imran and Priya share some tokens in the ratio 7 : 1 : 6. Hui Min gets 56 tokens. How many tokens are there altogether?",
+    "options": [
+      "112 tokens",
+      "784 tokens",
+      "8 tokens",
+      "63 tokens"
+    ],
+    "correctAnswer": "112 tokens",
+    "explanation": "Hui Min's share is 7 units = 56 tokens, so 1 unit = 56 ÷ 7 = 8. Total units = 14. Total tokens = 14 × 8 = 112 tokens.",
+    "hint1": "Use Hui Min's share (56) to find the value of 1 unit: divide by 7.",
+    "hint2": "1 unit = 8. Multiply by the total units (14).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        7,
+        1,
+        6
+      ],
+      "knownIndex": 0,
+      "knownValue": 56,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 33,
+    "districtId": 3,
+    "category": "GIVEN ONE SHARE",
+    "visual": "givenBar",
+    "questionText": "Hui Min and Imran share some dollars in the ratio 1 : 10. Imran gets $30. How many dollars are there altogether?",
+    "options": [
+      "$3",
+      "$33",
+      "$330",
+      "$60"
+    ],
+    "correctAnswer": "$33",
+    "explanation": "Imran's share is 10 units = $30, so 1 unit = 30 ÷ 10 = 3. Total units = 11. Total dollars = 11 × 3 = $33.",
+    "hint1": "Use Imran's share (30) to find the value of 1 unit: divide by 10.",
+    "hint2": "1 unit = 3. Multiply by the total units (11).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        10
+      ],
+      "knownIndex": 1,
+      "knownValue": 30,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 34,
+    "districtId": 3,
+    "category": "GIVEN ONE SHARE",
+    "visual": "givenBar",
+    "questionText": "Hui Min, Imran and Priya share some cupcakes in the ratio 5 : 4 : 1. Priya gets 8 cupcakes. How many cupcakes are there altogether?",
+    "options": [
+      "8 cupcakes",
+      "80 cupcakes",
+      "16 cupcakes",
+      "40 cupcakes"
+    ],
+    "correctAnswer": "80 cupcakes",
+    "explanation": "Priya's share is 1 units = 8 cupcakes, so 1 unit = 8 ÷ 1 = 8. Total units = 10. Total cupcakes = 10 × 8 = 80 cupcakes.",
+    "hint1": "Use Priya's share (8) to find the value of 1 unit: divide by 1.",
+    "hint2": "1 unit = 8. Multiply by the total units (10).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        5,
+        4,
+        1
+      ],
+      "knownIndex": 2,
+      "knownValue": 8,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 35,
+    "districtId": 3,
+    "category": "GIVEN ONE SHARE",
+    "visual": "givenBar",
+    "questionText": "Hui Min, Imran and Priya share some tokens in the ratio 2 : 1 : 4. Imran gets 4 tokens. How many tokens are there altogether?",
+    "options": [
+      "4 tokens",
+      "28 tokens",
+      "8 tokens",
+      "16 tokens"
+    ],
+    "correctAnswer": "28 tokens",
+    "explanation": "Imran's share is 1 units = 4 tokens, so 1 unit = 4 ÷ 1 = 4. Total units = 7. Total tokens = 7 × 4 = 28 tokens.",
+    "hint1": "Use Imran's share (4) to find the value of 1 unit: divide by 1.",
+    "hint2": "1 unit = 4. Multiply by the total units (7).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        2,
+        1,
+        4
+      ],
+      "knownIndex": 1,
+      "knownValue": 4,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 36,
+    "districtId": 3,
+    "category": "GIVEN ONE SHARE",
+    "visual": "givenBar",
+    "questionText": "Hui Min and Imran share some dollars in the ratio 6 : 5. Hui Min gets $30. How many dollars are there altogether?",
+    "options": [
+      "$25",
+      "$5",
+      "$330",
+      "$55"
+    ],
+    "correctAnswer": "$55",
+    "explanation": "Hui Min's share is 6 units = $30, so 1 unit = 30 ÷ 6 = 5. Total units = 11. Total dollars = 11 × 5 = $55.",
+    "hint1": "Use Hui Min's share (30) to find the value of 1 unit: divide by 6.",
+    "hint2": "1 unit = 5. Multiply by the total units (11).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        6,
+        5
+      ],
+      "knownIndex": 0,
+      "knownValue": 30,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 37,
+    "districtId": 3,
+    "category": "GIVEN ONE SHARE",
+    "visual": "givenBar",
+    "questionText": "Hui Min and Imran share some tickets in the ratio 1 : 10. Hui Min gets 4 tickets. How many tickets are there altogether?",
+    "options": [
+      "4 tickets",
+      "8 tickets",
+      "40 tickets",
+      "44 tickets"
+    ],
+    "correctAnswer": "44 tickets",
+    "explanation": "Hui Min's share is 1 units = 4 tickets, so 1 unit = 4 ÷ 1 = 4. Total units = 11. Total tickets = 11 × 4 = 44 tickets.",
+    "hint1": "Use Hui Min's share (4) to find the value of 1 unit: divide by 1.",
+    "hint2": "1 unit = 4. Multiply by the total units (11).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        10
+      ],
+      "knownIndex": 0,
+      "knownValue": 4,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 38,
+    "districtId": 3,
+    "category": "GIVEN ONE SHARE",
+    "visual": "givenBar",
+    "questionText": "Hui Min and Imran share some dollars in the ratio 2 : 7. Hui Min gets $16. How many dollars are there altogether?",
+    "options": [
+      "$56",
+      "$72",
+      "$144",
+      "$8"
+    ],
+    "correctAnswer": "$72",
+    "explanation": "Hui Min's share is 2 units = $16, so 1 unit = 16 ÷ 2 = 8. Total units = 9. Total dollars = 9 × 8 = $72.",
+    "hint1": "Use Hui Min's share (16) to find the value of 1 unit: divide by 2.",
+    "hint2": "1 unit = 8. Multiply by the total units (9).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        2,
+        7
+      ],
+      "knownIndex": 0,
+      "knownValue": 16,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 39,
+    "districtId": 3,
+    "category": "GIVEN ONE SHARE",
+    "visual": "givenBar",
+    "questionText": "Hui Min, Imran and Priya share some stickers in the ratio 1 : 4 : 3. Priya gets 60 stickers. How many stickers are there altogether?",
+    "options": [
+      "120 stickers",
+      "20 stickers",
+      "160 stickers",
+      "480 stickers"
+    ],
+    "correctAnswer": "160 stickers",
+    "explanation": "Priya's share is 3 units = 60 stickers, so 1 unit = 60 ÷ 3 = 20. Total units = 8. Total stickers = 8 × 20 = 160 stickers.",
+    "hint1": "Use Priya's share (60) to find the value of 1 unit: divide by 3.",
+    "hint2": "1 unit = 20. Multiply by the total units (8).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        1,
+        4,
+        3
+      ],
+      "knownIndex": 2,
+      "knownValue": 60,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 40,
+    "districtId": 4,
+    "category": "GIVEN DIFFERENCE",
+    "visual": "diffBar",
+    "questionText": "Hui Min and Imran share some points in the ratio 4 : 1. Hui Min gets 75 points more than Imran. How many points does Hui Min get?",
+    "options": [
+      "100 points",
+      "75 points",
+      "300 points",
+      "25 points"
+    ],
+    "correctAnswer": "100 points",
+    "explanation": "Difference in units = 4 − 1 = 3 units. 3 units = 75 points, so 1 unit = 75 ÷ 3 = 25. Hui Min gets 4 × 25 = 100 points.",
+    "hint1": "The difference is 4 − 1 = 3 units.",
+    "hint2": "3 units = 75 points, so 1 unit = 25. Now multiply by Hui Min's units.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        4,
+        1
+      ],
+      "i": 0,
+      "j": 1,
+      "diffValue": 75,
+      "askTarget": "larger"
+    }
+  },
+  {
+    "id": 41,
+    "districtId": 4,
+    "category": "GIVEN DIFFERENCE",
+    "visual": "diffBar",
+    "questionText": "Hui Min and Imran share some tokens in the ratio 1 : 3. Imran gets 16 tokens more than Hui Min. Find the total amount shared.",
+    "options": [
+      "8 tokens",
+      "48 tokens",
+      "32 tokens",
+      "24 tokens"
+    ],
+    "correctAnswer": "32 tokens",
+    "explanation": "Difference in units = 3 − 1 = 2 units. 2 units = 16 tokens, so 1 unit = 16 ÷ 2 = 8. Total units = 4. Total = 4 × 8 = 32 tokens.",
+    "hint1": "The difference is 3 − 1 = 2 units.",
+    "hint2": "2 units = 16 tokens, so 1 unit = 8. Now multiply by total units (4).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        3
+      ],
+      "i": 1,
+      "j": 0,
+      "diffValue": 16,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 42,
+    "districtId": 4,
+    "category": "GIVEN DIFFERENCE",
+    "visual": "diffBar",
+    "questionText": "Hui Min and Imran share some points in the ratio 2 : 9. Imran gets 175 points more than Hui Min. How many points does Imran get?",
+    "options": [
+      "25 points",
+      "1575 points",
+      "225 points",
+      "50 points"
+    ],
+    "correctAnswer": "225 points",
+    "explanation": "Difference in units = 9 − 2 = 7 units. 7 units = 175 points, so 1 unit = 175 ÷ 7 = 25. Imran gets 9 × 25 = 225 points.",
+    "hint1": "The difference is 9 − 2 = 7 units.",
+    "hint2": "7 units = 175 points, so 1 unit = 25. Now multiply by Imran's units.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        2,
+        9
+      ],
+      "i": 1,
+      "j": 0,
+      "diffValue": 175,
+      "askTarget": "larger"
+    }
+  },
+  {
+    "id": 43,
+    "districtId": 4,
+    "category": "GIVEN DIFFERENCE",
+    "visual": "diffBar",
+    "questionText": "Hui Min and Imran share some tokens in the ratio 1 : 9. Imran gets 120 tokens more than Hui Min. Find the total amount shared.",
+    "options": [
+      "135 tokens",
+      "150 tokens",
+      "15 tokens",
+      "1080 tokens"
+    ],
+    "correctAnswer": "150 tokens",
+    "explanation": "Difference in units = 9 − 1 = 8 units. 8 units = 120 tokens, so 1 unit = 120 ÷ 8 = 15. Total units = 10. Total = 10 × 15 = 150 tokens.",
+    "hint1": "The difference is 9 − 1 = 8 units.",
+    "hint2": "8 units = 120 tokens, so 1 unit = 15. Now multiply by total units (10).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        9
+      ],
+      "i": 1,
+      "j": 0,
+      "diffValue": 120,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 44,
+    "districtId": 4,
+    "category": "GIVEN DIFFERENCE",
+    "visual": "diffBar",
+    "questionText": "Hui Min and Imran share some cupcakes in the ratio 1 : 5. Imran gets 32 cupcakes more than Hui Min. How many cupcakes does Imran get?",
+    "options": [
+      "32 cupcakes",
+      "8 cupcakes",
+      "160 cupcakes",
+      "40 cupcakes"
+    ],
+    "correctAnswer": "40 cupcakes",
+    "explanation": "Difference in units = 5 − 1 = 4 units. 4 units = 32 cupcakes, so 1 unit = 32 ÷ 4 = 8. Imran gets 5 × 8 = 40 cupcakes.",
+    "hint1": "The difference is 5 − 1 = 4 units.",
+    "hint2": "4 units = 32 cupcakes, so 1 unit = 8. Now multiply by Imran's units.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        5
+      ],
+      "i": 1,
+      "j": 0,
+      "diffValue": 32,
+      "askTarget": "larger"
+    }
+  },
+  {
+    "id": 45,
+    "districtId": 4,
+    "category": "GIVEN DIFFERENCE",
+    "visual": "diffBar",
+    "questionText": "Hui Min and Imran share some tokens in the ratio 7 : 3. Hui Min gets 20 tokens more than Imran. How many tokens does Hui Min get?",
+    "options": [
+      "140 tokens",
+      "15 tokens",
+      "35 tokens",
+      "5 tokens"
+    ],
+    "correctAnswer": "35 tokens",
+    "explanation": "Difference in units = 7 − 3 = 4 units. 4 units = 20 tokens, so 1 unit = 20 ÷ 4 = 5. Hui Min gets 7 × 5 = 35 tokens.",
+    "hint1": "The difference is 7 − 3 = 4 units.",
+    "hint2": "4 units = 20 tokens, so 1 unit = 5. Now multiply by Hui Min's units.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        7,
+        3
+      ],
+      "i": 0,
+      "j": 1,
+      "diffValue": 20,
+      "askTarget": "larger"
+    }
+  },
+  {
+    "id": 46,
+    "districtId": 4,
+    "category": "GIVEN DIFFERENCE",
+    "visual": "diffBar",
+    "questionText": "Hui Min and Imran share some cupcakes in the ratio 5 : 6. Imran gets 15 cupcakes more than Hui Min. How many cupcakes does Imran get?",
+    "options": [
+      "165 cupcakes",
+      "90 cupcakes",
+      "75 cupcakes",
+      "15 cupcakes"
+    ],
+    "correctAnswer": "90 cupcakes",
+    "explanation": "Difference in units = 6 − 5 = 1 units. 1 units = 15 cupcakes, so 1 unit = 15 ÷ 1 = 15. Imran gets 6 × 15 = 90 cupcakes.",
+    "hint1": "The difference is 6 − 5 = 1 units.",
+    "hint2": "1 units = 15 cupcakes, so 1 unit = 15. Now multiply by Imran's units.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        5,
+        6
+      ],
+      "i": 1,
+      "j": 0,
+      "diffValue": 15,
+      "askTarget": "larger"
+    }
+  },
+  {
+    "id": 47,
+    "districtId": 4,
+    "category": "GIVEN DIFFERENCE",
+    "visual": "diffBar",
+    "questionText": "Hui Min and Imran share some points in the ratio 5 : 1. Hui Min gets 20 points more than Imran. Find the total amount shared.",
+    "options": [
+      "5 points",
+      "25 points",
+      "30 points",
+      "100 points"
+    ],
+    "correctAnswer": "30 points",
+    "explanation": "Difference in units = 5 − 1 = 4 units. 4 units = 20 points, so 1 unit = 20 ÷ 4 = 5. Total units = 6. Total = 6 × 5 = 30 points.",
+    "hint1": "The difference is 5 − 1 = 4 units.",
+    "hint2": "4 units = 20 points, so 1 unit = 5. Now multiply by total units (6).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        5,
+        1
+      ],
+      "i": 0,
+      "j": 1,
+      "diffValue": 20,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 48,
+    "districtId": 4,
+    "category": "GIVEN DIFFERENCE",
+    "visual": "diffBar",
+    "questionText": "Hui Min and Imran share some tickets in the ratio 4 : 5. Imran gets 2 tickets more than Hui Min. How many tickets does Hui Min get?",
+    "options": [
+      "8 tickets",
+      "2 tickets",
+      "18 tickets",
+      "10 tickets"
+    ],
+    "correctAnswer": "8 tickets",
+    "explanation": "Difference in units = 5 − 4 = 1 units. 1 units = 2 tickets, so 1 unit = 2 ÷ 1 = 2. Hui Min gets 4 × 2 = 8 tickets.",
+    "hint1": "The difference is 5 − 4 = 1 units.",
+    "hint2": "1 units = 2 tickets, so 1 unit = 2. Now multiply by Hui Min's units.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        4,
+        5
+      ],
+      "i": 1,
+      "j": 0,
+      "diffValue": 2,
+      "askTarget": "smaller"
+    }
+  },
+  {
+    "id": 49,
+    "districtId": 4,
+    "category": "GIVEN DIFFERENCE",
+    "visual": "diffBar",
+    "questionText": "Hui Min and Imran share some stickers in the ratio 7 : 2. Hui Min gets 50 stickers more than Imran. Find the total amount shared.",
+    "options": [
+      "70 stickers",
+      "350 stickers",
+      "10 stickers",
+      "90 stickers"
+    ],
+    "correctAnswer": "90 stickers",
+    "explanation": "Difference in units = 7 − 2 = 5 units. 5 units = 50 stickers, so 1 unit = 50 ÷ 5 = 10. Total units = 9. Total = 9 × 10 = 90 stickers.",
+    "hint1": "The difference is 7 − 2 = 5 units.",
+    "hint2": "5 units = 50 stickers, so 1 unit = 10. Now multiply by total units (9).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        7,
+        2
+      ],
+      "i": 0,
+      "j": 1,
+      "diffValue": 50,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 50,
+    "districtId": 5,
+    "category": "COMBINED SHARES",
+    "visual": "comboBar",
+    "questionText": "Hui Min, Imran and Priya share cupcakes in the ratio 2 : 3 : 1. Hui Min and Priya have 75 cupcakes altogether. How many cupcakes does Imran have?",
+    "options": [
+      "75 cupcakes",
+      "150 cupcakes",
+      "25 cupcakes",
+      "50 cupcakes"
+    ],
+    "correctAnswer": "75 cupcakes",
+    "explanation": "Hui Min and Priya together have 2 + 1 = 3 units. 3 units = 75 cupcakes, so 1 unit = 75 ÷ 3 = 25. Imran has 3 units × 25 = 75 cupcakes.",
+    "hint1": "Add the units for Hui Min and Priya: 2 + 1 = 3 units.",
+    "hint2": "1 unit = 75 ÷ 3 = 25. Multiply by Imran's units (3).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        2,
+        3,
+        1
+      ],
+      "idxs": [
+        0,
+        2
+      ],
+      "pairValue": 75,
+      "askTarget": 1
+    }
+  },
+  {
+    "id": 51,
+    "districtId": 5,
+    "category": "COMBINED SHARES",
+    "visual": "comboBar",
+    "questionText": "Hui Min, Imran and Priya share stickers in the ratio 1 : 7 : 2. Hui Min and Priya have 15 stickers altogether. How many stickers are there in all?",
+    "options": [
+      "35 stickers",
+      "15 stickers",
+      "50 stickers",
+      "5 stickers"
+    ],
+    "correctAnswer": "50 stickers",
+    "explanation": "Hui Min and Priya together have 1 + 2 = 3 units. 3 units = 15 stickers, so 1 unit = 15 ÷ 3 = 5. Total units = 10. Total = 10 × 5 = 50 stickers.",
+    "hint1": "Add the units for Hui Min and Priya: 1 + 2 = 3 units.",
+    "hint2": "1 unit = 15 ÷ 3 = 5. Multiply by total units (10).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        1,
+        7,
+        2
+      ],
+      "idxs": [
+        0,
+        2
+      ],
+      "pairValue": 15,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 52,
+    "districtId": 5,
+    "category": "COMBINED SHARES",
+    "visual": "comboBar",
+    "questionText": "Hui Min, Imran and Priya share tokens in the ratio 7 : 1 : 2. Imran and Priya have 45 tokens altogether. How many tokens does Hui Min have?",
+    "options": [
+      "15 tokens",
+      "150 tokens",
+      "105 tokens",
+      "45 tokens"
+    ],
+    "correctAnswer": "105 tokens",
+    "explanation": "Imran and Priya together have 1 + 2 = 3 units. 3 units = 45 tokens, so 1 unit = 45 ÷ 3 = 15. Hui Min has 7 units × 15 = 105 tokens.",
+    "hint1": "Add the units for Imran and Priya: 1 + 2 = 3 units.",
+    "hint2": "1 unit = 45 ÷ 3 = 15. Multiply by Hui Min's units (7).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        7,
+        1,
+        2
+      ],
+      "idxs": [
+        1,
+        2
+      ],
+      "pairValue": 45,
+      "askTarget": 0
+    }
+  },
+  {
+    "id": 53,
+    "districtId": 5,
+    "category": "COMBINED SHARES",
+    "visual": "comboBar",
+    "questionText": "Hui Min, Imran and Priya share tokens in the ratio 2 : 1 : 7. Hui Min and Imran have 24 tokens altogether. How many tokens are there in all?",
+    "options": [
+      "80 tokens",
+      "56 tokens",
+      "24 tokens",
+      "8 tokens"
+    ],
+    "correctAnswer": "80 tokens",
+    "explanation": "Hui Min and Imran together have 2 + 1 = 3 units. 3 units = 24 tokens, so 1 unit = 24 ÷ 3 = 8. Total units = 10. Total = 10 × 8 = 80 tokens.",
+    "hint1": "Add the units for Hui Min and Imran: 2 + 1 = 3 units.",
+    "hint2": "1 unit = 24 ÷ 3 = 8. Multiply by total units (10).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        2,
+        1,
+        7
+      ],
+      "idxs": [
+        0,
+        1
+      ],
+      "pairValue": 24,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 54,
+    "districtId": 5,
+    "category": "COMBINED SHARES",
+    "visual": "comboBar",
+    "questionText": "Hui Min, Imran and Priya share cupcakes in the ratio 1 : 6 : 2. Hui Min and Imran have 105 cupcakes altogether. How many cupcakes does Priya have?",
+    "options": [
+      "15 cupcakes",
+      "105 cupcakes",
+      "135 cupcakes",
+      "30 cupcakes"
+    ],
+    "correctAnswer": "30 cupcakes",
+    "explanation": "Hui Min and Imran together have 1 + 6 = 7 units. 7 units = 105 cupcakes, so 1 unit = 105 ÷ 7 = 15. Priya has 2 units × 15 = 30 cupcakes.",
+    "hint1": "Add the units for Hui Min and Imran: 1 + 6 = 7 units.",
+    "hint2": "1 unit = 105 ÷ 7 = 15. Multiply by Priya's units (2).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        1,
+        6,
+        2
+      ],
+      "idxs": [
+        0,
+        1
+      ],
+      "pairValue": 105,
+      "askTarget": 2
+    }
+  },
+  {
+    "id": 55,
+    "districtId": 5,
+    "category": "COMBINED SHARES",
+    "visual": "comboBar",
+    "questionText": "Hui Min, Imran and Priya share cupcakes in the ratio 5 : 4 : 1. Hui Min and Priya have 24 cupcakes altogether. How many cupcakes does Imran have?",
+    "options": [
+      "24 cupcakes",
+      "40 cupcakes",
+      "4 cupcakes",
+      "16 cupcakes"
+    ],
+    "correctAnswer": "16 cupcakes",
+    "explanation": "Hui Min and Priya together have 5 + 1 = 6 units. 6 units = 24 cupcakes, so 1 unit = 24 ÷ 6 = 4. Imran has 4 units × 4 = 16 cupcakes.",
+    "hint1": "Add the units for Hui Min and Priya: 5 + 1 = 6 units.",
+    "hint2": "1 unit = 24 ÷ 6 = 4. Multiply by Imran's units (4).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        5,
+        4,
+        1
+      ],
+      "idxs": [
+        0,
+        2
+      ],
+      "pairValue": 24,
+      "askTarget": 1
+    }
+  },
+  {
+    "id": 56,
+    "districtId": 5,
+    "category": "COMBINED SHARES",
+    "visual": "comboBar",
+    "questionText": "Hui Min, Imran and Priya share cupcakes in the ratio 5 : 7 : 2. Imran and Priya have 225 cupcakes altogether. How many cupcakes are there in all?",
+    "options": [
+      "125 cupcakes",
+      "25 cupcakes",
+      "350 cupcakes",
+      "225 cupcakes"
+    ],
+    "correctAnswer": "350 cupcakes",
+    "explanation": "Imran and Priya together have 7 + 2 = 9 units. 9 units = 225 cupcakes, so 1 unit = 225 ÷ 9 = 25. Total units = 14. Total = 14 × 25 = 350 cupcakes.",
+    "hint1": "Add the units for Imran and Priya: 7 + 2 = 9 units.",
+    "hint2": "1 unit = 225 ÷ 9 = 25. Multiply by total units (14).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        5,
+        7,
+        2
+      ],
+      "idxs": [
+        1,
+        2
+      ],
+      "pairValue": 225,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 57,
+    "districtId": 5,
+    "category": "COMBINED SHARES",
+    "visual": "comboBar",
+    "questionText": "Hui Min, Imran and Priya share points in the ratio 7 : 1 : 2. Hui Min and Imran have 160 points altogether. How many points does Priya have?",
+    "options": [
+      "20 points",
+      "160 points",
+      "200 points",
+      "40 points"
+    ],
+    "correctAnswer": "40 points",
+    "explanation": "Hui Min and Imran together have 7 + 1 = 8 units. 8 units = 160 points, so 1 unit = 160 ÷ 8 = 20. Priya has 2 units × 20 = 40 points.",
+    "hint1": "Add the units for Hui Min and Imran: 7 + 1 = 8 units.",
+    "hint2": "1 unit = 160 ÷ 8 = 20. Multiply by Priya's units (2).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        7,
+        1,
+        2
+      ],
+      "idxs": [
+        0,
+        1
+      ],
+      "pairValue": 160,
+      "askTarget": 2
+    }
+  },
+  {
+    "id": 58,
+    "districtId": 5,
+    "category": "COMBINED SHARES",
+    "visual": "comboBar",
+    "questionText": "Hui Min, Imran and Priya share points in the ratio 7 : 4 : 2. Hui Min and Imran have 44 points altogether. How many points does Priya have?",
+    "options": [
+      "4 points",
+      "8 points",
+      "52 points",
+      "44 points"
+    ],
+    "correctAnswer": "8 points",
+    "explanation": "Hui Min and Imran together have 7 + 4 = 11 units. 11 units = 44 points, so 1 unit = 44 ÷ 11 = 4. Priya has 2 units × 4 = 8 points.",
+    "hint1": "Add the units for Hui Min and Imran: 7 + 4 = 11 units.",
+    "hint2": "1 unit = 44 ÷ 11 = 4. Multiply by Priya's units (2).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        7,
+        4,
+        2
+      ],
+      "idxs": [
+        0,
+        1
+      ],
+      "pairValue": 44,
+      "askTarget": 2
+    }
+  },
+  {
+    "id": 59,
+    "districtId": 5,
+    "category": "COMBINED SHARES",
+    "visual": "comboBar",
+    "questionText": "Hui Min, Imran and Priya share stickers in the ratio 4 : 7 : 3. Imran and Priya have 80 stickers altogether. How many stickers does Hui Min have?",
+    "options": [
+      "112 stickers",
+      "8 stickers",
+      "80 stickers",
+      "32 stickers"
+    ],
+    "correctAnswer": "32 stickers",
+    "explanation": "Imran and Priya together have 7 + 3 = 10 units. 10 units = 80 stickers, so 1 unit = 80 ÷ 10 = 8. Hui Min has 4 units × 8 = 32 stickers.",
+    "hint1": "Add the units for Imran and Priya: 7 + 3 = 10 units.",
+    "hint2": "1 unit = 80 ÷ 10 = 8. Multiply by Hui Min's units (4).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        4,
+        7,
+        3
+      ],
+      "idxs": [
+        1,
+        2
+      ],
+      "pairValue": 80,
+      "askTarget": 0
+    }
+  },
+  {
+    "id": 60,
+    "districtId": 6,
+    "category": "COMPARING SHARES",
+    "visual": "shareBar",
+    "questionText": "20 cupcakes is shared among Hui Min, Imran and Priya in the ratio 3 : 5 : 2. How much more does Hui Min get than Priya?",
+    "options": [
+      "4 cupcakes",
+      "2 cupcakes",
+      "1 cupcake",
+      "6 cupcakes"
+    ],
+    "correctAnswer": "2 cupcakes",
+    "explanation": "Total units = 10. Value of 1 unit = 20 ÷ 10 = 2. The unit difference between Hui Min and Priya is 3 − 2 = 1 units. Real difference = 1 × 2 = 2 cupcakes.",
+    "hint1": "Find 1 unit first: 20 ÷ 10 = 2.",
+    "hint2": "Unit gap is 3 − 2 = 1 units. Multiply 1 by 2 to get the answer in cupcakes.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        3,
+        5,
+        2
+      ],
+      "unit": 2,
+      "total": 20,
+      "compareIndices": [
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "id": 61,
+    "districtId": 6,
+    "category": "COMPARING SHARES",
+    "visual": "shareBar",
+    "questionText": "84 cupcakes is shared among Hui Min, Imran and Priya in the ratio 4 : 7 : 3. How much more does Imran get than Hui Min?",
+    "options": [
+      "18 cupcakes",
+      "24 cupcakes",
+      "42 cupcakes",
+      "3 cupcakes"
+    ],
+    "correctAnswer": "18 cupcakes",
+    "explanation": "Total units = 14. Value of 1 unit = 84 ÷ 14 = 6. The unit difference between Imran and Hui Min is 7 − 4 = 3 units. Real difference = 3 × 6 = 18 cupcakes.",
+    "hint1": "Find 1 unit first: 84 ÷ 14 = 6.",
+    "hint2": "Unit gap is 7 − 4 = 3 units. Multiply 3 by 6 to get the answer in cupcakes.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        4,
+        7,
+        3
+      ],
+      "unit": 6,
+      "total": 84,
+      "compareIndices": [
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": 62,
+    "districtId": 6,
+    "category": "COMPARING SHARES",
+    "visual": "shareBar",
+    "questionText": "70 cupcakes is shared among Hui Min, Imran and Priya in the ratio 7 : 3 : 4. How much more does Hui Min get than Imran?",
+    "options": [
+      "20 cupcakes",
+      "4 cupcakes",
+      "15 cupcakes",
+      "35 cupcakes"
+    ],
+    "correctAnswer": "20 cupcakes",
+    "explanation": "Total units = 14. Value of 1 unit = 70 ÷ 14 = 5. The unit difference between Hui Min and Imran is 7 − 3 = 4 units. Real difference = 4 × 5 = 20 cupcakes.",
+    "hint1": "Find 1 unit first: 70 ÷ 14 = 5.",
+    "hint2": "Unit gap is 7 − 3 = 4 units. Multiply 4 by 5 to get the answer in cupcakes.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        7,
+        3,
+        4
+      ],
+      "unit": 5,
+      "total": 70,
+      "compareIndices": [
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": 63,
+    "districtId": 6,
+    "category": "COMPARING SHARES",
+    "visual": "shareBar",
+    "questionText": "225 points is shared among Hui Min and Imran in the ratio 2 : 7. How much more does Imran get than Hui Min?",
+    "options": [
+      "125 points",
+      "5 points",
+      "175 points",
+      "50 points"
+    ],
+    "correctAnswer": "125 points",
+    "explanation": "Total units = 9. Value of 1 unit = 225 ÷ 9 = 25. The unit difference between Imran and Hui Min is 7 − 2 = 5 units. Real difference = 5 × 25 = 125 points.",
+    "hint1": "Find 1 unit first: 225 ÷ 9 = 25.",
+    "hint2": "Unit gap is 7 − 2 = 5 units. Multiply 5 by 25 to get the answer in points.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        2,
+        7
+      ],
+      "unit": 25,
+      "total": 225,
+      "compareIndices": [
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": 64,
+    "districtId": 6,
+    "category": "COMPARING SHARES",
+    "visual": "shareBar",
+    "questionText": "110 stickers is shared among Hui Min, Imran and Priya in the ratio 1 : 6 : 4. How much more does Priya get than Hui Min?",
+    "options": [
+      "3 stickers",
+      "10 stickers",
+      "40 stickers",
+      "30 stickers"
+    ],
+    "correctAnswer": "30 stickers",
+    "explanation": "Total units = 11. Value of 1 unit = 110 ÷ 11 = 10. The unit difference between Priya and Hui Min is 4 − 1 = 3 units. Real difference = 3 × 10 = 30 stickers.",
+    "hint1": "Find 1 unit first: 110 ÷ 11 = 10.",
+    "hint2": "Unit gap is 4 − 1 = 3 units. Multiply 3 by 10 to get the answer in stickers.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        1,
+        6,
+        4
+      ],
+      "unit": 10,
+      "total": 110,
+      "compareIndices": [
+        2,
+        0
+      ]
+    }
+  },
+  {
+    "id": 65,
+    "districtId": 6,
+    "category": "COMPARING SHARES",
+    "visual": "shareBar",
+    "questionText": "10 cupcakes is shared among Hui Min and Imran in the ratio 1 : 4. How much more does Imran get than Hui Min?",
+    "options": [
+      "6 cupcakes",
+      "3 cupcakes",
+      "2 cupcakes",
+      "8 cupcakes"
+    ],
+    "correctAnswer": "6 cupcakes",
+    "explanation": "Total units = 5. Value of 1 unit = 10 ÷ 5 = 2. The unit difference between Imran and Hui Min is 4 − 1 = 3 units. Real difference = 3 × 2 = 6 cupcakes.",
+    "hint1": "Find 1 unit first: 10 ÷ 5 = 2.",
+    "hint2": "Unit gap is 4 − 1 = 3 units. Multiply 3 by 2 to get the answer in cupcakes.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        4
+      ],
+      "unit": 2,
+      "total": 10,
+      "compareIndices": [
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": 66,
+    "districtId": 6,
+    "category": "COMPARING SHARES",
+    "visual": "shareBar",
+    "questionText": "65 cupcakes is shared among Hui Min, Imran and Priya in the ratio 1 : 5 : 7. How much more does Priya get than Hui Min?",
+    "options": [
+      "6 cupcakes",
+      "30 cupcakes",
+      "5 cupcakes",
+      "35 cupcakes"
+    ],
+    "correctAnswer": "30 cupcakes",
+    "explanation": "Total units = 13. Value of 1 unit = 65 ÷ 13 = 5. The unit difference between Priya and Hui Min is 7 − 1 = 6 units. Real difference = 6 × 5 = 30 cupcakes.",
+    "hint1": "Find 1 unit first: 65 ÷ 13 = 5.",
+    "hint2": "Unit gap is 7 − 1 = 6 units. Multiply 6 by 5 to get the answer in cupcakes.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        1,
+        5,
+        7
+      ],
+      "unit": 5,
+      "total": 65,
+      "compareIndices": [
+        2,
+        0
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "districtId": 6,
+    "category": "COMPARING SHARES",
+    "visual": "shareBar",
+    "questionText": "42 stickers is shared among Hui Min and Imran in the ratio 1 : 6. How much more does Imran get than Hui Min?",
+    "options": [
+      "5 stickers",
+      "36 stickers",
+      "6 stickers",
+      "30 stickers"
+    ],
+    "correctAnswer": "30 stickers",
+    "explanation": "Total units = 7. Value of 1 unit = 42 ÷ 7 = 6. The unit difference between Imran and Hui Min is 6 − 1 = 5 units. Real difference = 5 × 6 = 30 stickers.",
+    "hint1": "Find 1 unit first: 42 ÷ 7 = 6.",
+    "hint2": "Unit gap is 6 − 1 = 5 units. Multiply 5 by 6 to get the answer in stickers.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        6
+      ],
+      "unit": 6,
+      "total": 42,
+      "compareIndices": [
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "districtId": 6,
+    "category": "COMPARING SHARES",
+    "visual": "shareBar",
+    "questionText": "$100 is shared among Hui Min and Imran in the ratio 1 : 9. How much more does Imran get than Hui Min?",
+    "options": [
+      "$80",
+      "$8",
+      "$10",
+      "$90"
+    ],
+    "correctAnswer": "$80",
+    "explanation": "Total units = 10. Value of 1 unit = 100 ÷ 10 = 10. The unit difference between Imran and Hui Min is 9 − 1 = 8 units. Real difference = 8 × 10 = $80.",
+    "hint1": "Find 1 unit first: 100 ÷ 10 = 10.",
+    "hint2": "Unit gap is 9 − 1 = 8 units. Multiply 8 by 10 to get the answer in dollars.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        9
+      ],
+      "unit": 10,
+      "total": 100,
+      "compareIndices": [
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "districtId": 6,
+    "category": "COMPARING SHARES",
+    "visual": "shareBar",
+    "questionText": "$120 is shared among Hui Min and Imran in the ratio 7 : 5. How much more does Hui Min get than Imran?",
+    "options": [
+      "$2",
+      "$70",
+      "$50",
+      "$20"
+    ],
+    "correctAnswer": "$20",
+    "explanation": "Total units = 12. Value of 1 unit = 120 ÷ 12 = 10. The unit difference between Hui Min and Imran is 7 − 5 = 2 units. Real difference = 2 × 10 = $20.",
+    "hint1": "Find 1 unit first: 120 ÷ 12 = 10.",
+    "hint2": "Unit gap is 7 − 5 = 2 units. Multiply 2 by 10 to get the answer in dollars.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        7,
+        5
+      ],
+      "unit": 10,
+      "total": 120,
+      "compareIndices": [
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "districtId": 7,
+    "category": "MULTI-STEP SHARING",
+    "visual": "nestedBar",
+    "questionText": "$275 is shared between Hui Min and Imran in the ratio 5 : 6. Hui Min spends 1/5 of their share. How much money does Hui Min have left?",
+    "options": [
+      "$125",
+      "$250",
+      "$100",
+      "$25"
+    ],
+    "correctAnswer": "$100",
+    "explanation": "Total units = 11. 1 unit = 275 ÷ 11 = 25. Hui Min's original share = 5 × 25 = $125. Spent = 1/5 of 125 = $25. Leftover = 125 − 25 = $100.",
+    "hint1": "First find Hui Min's share: 5 × (275 ÷ 11).",
+    "hint2": "Hui Min had $125 and spent 1/5 ($25). Subtract to find what is left.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        5,
+        6
+      ],
+      "unit": 25,
+      "spendIdx": 0,
+      "spendFraction": "1/5",
+      "remaining": 100
+    }
+  },
+  {
+    "id": 71,
+    "districtId": 7,
+    "category": "MULTI-STEP SHARING",
+    "visual": "nestedBar",
+    "questionText": "$32 is shared between Hui Min and Imran in the ratio 1 : 7. Hui Min spends 1/4 of their share. How much money does Hui Min have left?",
+    "options": [
+      "$4",
+      "$3",
+      "$1",
+      "$31"
+    ],
+    "correctAnswer": "$3",
+    "explanation": "Total units = 8. 1 unit = 32 ÷ 8 = 4. Hui Min's original share = 1 × 4 = $4. Spent = 1/4 of 4 = $1. Leftover = 4 − 1 = $3.",
+    "hint1": "First find Hui Min's share: 1 × (32 ÷ 8).",
+    "hint2": "Hui Min had $4 and spent 1/4 ($1). Subtract to find what is left.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        7
+      ],
+      "unit": 4,
+      "spendIdx": 0,
+      "spendFraction": "1/4",
+      "remaining": 3
+    }
+  },
+  {
+    "id": 72,
+    "districtId": 7,
+    "category": "MULTI-STEP SHARING",
+    "visual": "nestedBar",
+    "questionText": "$33 is shared between Hui Min and Imran in the ratio 3 : 8. Hui Min spends 1/3 of their share. How much money does Hui Min have left?",
+    "options": [
+      "$3",
+      "$30",
+      "$9",
+      "$6"
+    ],
+    "correctAnswer": "$6",
+    "explanation": "Total units = 11. 1 unit = 33 ÷ 11 = 3. Hui Min's original share = 3 × 3 = $9. Spent = 1/3 of 9 = $3. Leftover = 9 − 3 = $6.",
+    "hint1": "First find Hui Min's share: 3 × (33 ÷ 11).",
+    "hint2": "Hui Min had $9 and spent 1/3 ($3). Subtract to find what is left.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        3,
+        8
+      ],
+      "unit": 3,
+      "spendIdx": 0,
+      "spendFraction": "1/3",
+      "remaining": 6
+    }
+  },
+  {
+    "id": 73,
+    "districtId": 7,
+    "category": "MULTI-STEP SHARING",
+    "visual": "nestedBar",
+    "questionText": "$55 is shared between Hui Min and Imran in the ratio 1 : 10. Imran spends 1/5 of their share. How much money does Imran have left?",
+    "options": [
+      "$50",
+      "$45",
+      "$40",
+      "$10"
+    ],
+    "correctAnswer": "$40",
+    "explanation": "Total units = 11. 1 unit = 55 ÷ 11 = 5. Imran's original share = 10 × 5 = $50. Spent = 1/5 of 50 = $10. Leftover = 50 − 10 = $40.",
+    "hint1": "First find Imran's share: 10 × (55 ÷ 11).",
+    "hint2": "Imran had $50 and spent 1/5 ($10). Subtract to find what is left.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        10
+      ],
+      "unit": 5,
+      "spendIdx": 1,
+      "spendFraction": "1/5",
+      "remaining": 40
+    }
+  },
+  {
+    "id": 74,
+    "districtId": 7,
+    "category": "MULTI-STEP SHARING",
+    "visual": "nestedBar",
+    "questionText": "$36 is shared between Hui Min and Imran in the ratio 5 : 4. Imran spends 1/2 of their share. How much money does Imran have left?",
+    "options": [
+      "$28",
+      "$8",
+      "$16",
+      "$20"
+    ],
+    "correctAnswer": "$8",
+    "explanation": "Total units = 9. 1 unit = 36 ÷ 9 = 4. Imran's original share = 4 × 4 = $16. Spent = 1/2 of 16 = $8. Leftover = 16 − 8 = $8.",
+    "hint1": "First find Imran's share: 4 × (36 ÷ 9).",
+    "hint2": "Imran had $16 and spent 1/2 ($8). Subtract to find what is left.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        5,
+        4
+      ],
+      "unit": 4,
+      "spendIdx": 1,
+      "spendFraction": "1/2",
+      "remaining": 8
+    }
+  },
+  {
+    "id": 75,
+    "districtId": 7,
+    "category": "MULTI-STEP SHARING",
+    "visual": "nestedBar",
+    "questionText": "$180 is shared between Hui Min and Imran in the ratio 4 : 5. Imran spends 1/2 of their share. How much money does Imran have left?",
+    "options": [
+      "$130",
+      "$50",
+      "$80",
+      "$100"
+    ],
+    "correctAnswer": "$50",
+    "explanation": "Total units = 9. 1 unit = 180 ÷ 9 = 20. Imran's original share = 5 × 20 = $100. Spent = 1/2 of 100 = $50. Leftover = 100 − 50 = $50.",
+    "hint1": "First find Imran's share: 5 × (180 ÷ 9).",
+    "hint2": "Imran had $100 and spent 1/2 ($50). Subtract to find what is left.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        4,
+        5
+      ],
+      "unit": 20,
+      "spendIdx": 1,
+      "spendFraction": "1/2",
+      "remaining": 50
+    }
+  },
+  {
+    "id": 76,
+    "districtId": 7,
+    "category": "MULTI-STEP SHARING",
+    "visual": "nestedBar",
+    "questionText": "$132 is shared between Hui Min and Imran in the ratio 3 : 8. Imran spends 1/2 of their share. How much money does Imran have left?",
+    "options": [
+      "$84",
+      "$48",
+      "$96",
+      "$36"
+    ],
+    "correctAnswer": "$48",
+    "explanation": "Total units = 11. 1 unit = 132 ÷ 11 = 12. Imran's original share = 8 × 12 = $96. Spent = 1/2 of 96 = $48. Leftover = 96 − 48 = $48.",
+    "hint1": "First find Imran's share: 8 × (132 ÷ 11).",
+    "hint2": "Imran had $96 and spent 1/2 ($48). Subtract to find what is left.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        3,
+        8
+      ],
+      "unit": 12,
+      "spendIdx": 1,
+      "spendFraction": "1/2",
+      "remaining": 48
+    }
+  },
+  {
+    "id": 77,
+    "districtId": 7,
+    "category": "MULTI-STEP SHARING",
+    "visual": "nestedBar",
+    "questionText": "$80 is shared between Hui Min and Imran in the ratio 1 : 9. Imran spends 1/4 of their share. How much money does Imran have left?",
+    "options": [
+      "$62",
+      "$54",
+      "$18",
+      "$72"
+    ],
+    "correctAnswer": "$54",
+    "explanation": "Total units = 10. 1 unit = 80 ÷ 10 = 8. Imran's original share = 9 × 8 = $72. Spent = 1/4 of 72 = $18. Leftover = 72 − 18 = $54.",
+    "hint1": "First find Imran's share: 9 × (80 ÷ 10).",
+    "hint2": "Imran had $72 and spent 1/4 ($18). Subtract to find what is left.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        9
+      ],
+      "unit": 8,
+      "spendIdx": 1,
+      "spendFraction": "1/4",
+      "remaining": 54
+    }
+  },
+  {
+    "id": 78,
+    "districtId": 7,
+    "category": "MULTI-STEP SHARING",
+    "visual": "nestedBar",
+    "questionText": "$90 is shared between Hui Min and Imran in the ratio 2 : 7. Hui Min spends 1/5 of their share. How much money does Hui Min have left?",
+    "options": [
+      "$4",
+      "$86",
+      "$20",
+      "$16"
+    ],
+    "correctAnswer": "$16",
+    "explanation": "Total units = 9. 1 unit = 90 ÷ 9 = 10. Hui Min's original share = 2 × 10 = $20. Spent = 1/5 of 20 = $4. Leftover = 20 − 4 = $16.",
+    "hint1": "First find Hui Min's share: 2 × (90 ÷ 9).",
+    "hint2": "Hui Min had $20 and spent 1/5 ($4). Subtract to find what is left.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        2,
+        7
+      ],
+      "unit": 10,
+      "spendIdx": 0,
+      "spendFraction": "1/5",
+      "remaining": 16
+    }
+  },
+  {
+    "id": 79,
+    "districtId": 7,
+    "category": "MULTI-STEP SHARING",
+    "visual": "nestedBar",
+    "questionText": "$150 is shared between Hui Min and Imran in the ratio 1 : 9. Imran spends 1/3 of their share. How much money does Imran have left?",
+    "options": [
+      "$90",
+      "$135",
+      "$45",
+      "$105"
+    ],
+    "correctAnswer": "$90",
+    "explanation": "Total units = 10. 1 unit = 150 ÷ 10 = 15. Imran's original share = 9 × 15 = $135. Spent = 1/3 of 135 = $45. Leftover = 135 − 45 = $90.",
+    "hint1": "First find Imran's share: 9 × (150 ÷ 10).",
+    "hint2": "Imran had $135 and spent 1/3 ($45). Subtract to find what is left.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        9
+      ],
+      "unit": 15,
+      "spendIdx": 1,
+      "spendFraction": "1/3",
+      "remaining": 90
+    }
+  },
+  {
+    "id": 80,
+    "districtId": 8,
+    "category": "INSPECTOR & REASONING",
+    "visual": "worksheetCard",
+    "questionText": "Detective check: \"To share $60 between Hui Min and Imran in the ratio 2 : 3, we divide $60 by 2, so Hui Min gets $30.\" Is this statement correct?",
+    "options": [
+      "Yes — but only if Imran gets $30 too",
+      "Yes — you always divide by the first number",
+      "No — total units are 5, so 1 unit is $12 and Hui Min gets $24",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "No — total units are 5, so 1 unit is $12 and Hui Min gets $24",
+    "explanation": "Dividing by one ratio term is incorrect. You must divide the total by the sum of all terms (2 + 3 = 5 units), giving 1 unit = $12, so Hui Min gets 2 × $12 = $24.",
+    "hint1": "Does the total get divided by one term or the sum of all terms?",
+    "hint2": "Find total units (2 + 3 = 5), then calculate 1 unit and Hui Min's 2 units.",
+    "visualData": {
+      "claimLines": [
+        "To share $60 between Hui Min and Imran in the ratio 2 : 3, we divide $60 by 2, so Hui Min gets $30."
+      ],
+      "isTrue": false
+    }
+  },
+  {
+    "id": 81,
+    "districtId": 8,
+    "category": "INSPECTOR & REASONING",
+    "visual": "worksheetCard",
+    "questionText": "Detective check: \"Hui Min and Imran share stickers in ratio 3 : 5. Imran gets 36 more stickers, so 1 unit is 36 stickers.\" Is this statement correct?",
+    "options": [
+      "Yes — if total stickers is 36",
+      "No — the difference is 2 units, so 1 unit is 18 stickers",
+      "No — 1 unit is 36 × 2 = 72 stickers",
+      "Yes — the difference is always equal to 1 unit"
+    ],
+    "correctAnswer": "No — the difference is 2 units, so 1 unit is 18 stickers",
+    "explanation": "The difference between 3 units and 5 units is 2 units. 2 units = 36 stickers, so 1 unit = 36 ÷ 2 = 18 stickers.",
+    "hint1": "How many units is the difference between 3 and 5?",
+    "hint2": "5 − 3 = 2 units. Since 2 units = 36, divide 36 by 2.",
+    "visualData": {
+      "claimLines": [
+        "Hui Min and Imran share stickers in ratio 3 : 5. Imran gets 36 more stickers, so 1 unit is 36 stickers."
+      ],
+      "isTrue": false
+    }
+  },
+  {
+    "id": 82,
+    "districtId": 8,
+    "category": "INSPECTOR & REASONING",
+    "visual": "worksheetCard",
+    "questionText": "Detective check: \"The ratio of Hui Min's money to Imran's money is 3 : 5. Hui Min gets 5 units because 5 is larger.\" Is this statement correct?",
+    "options": [
+      "Yes — order does not matter in ratios",
+      "No — the first term (3) belongs to the first person (Hui Min)",
+      "Cannot be determined",
+      "Yes — the larger number always goes to the first person"
+    ],
+    "correctAnswer": "No — the first term (3) belongs to the first person (Hui Min)",
+    "explanation": "In ratio notation, the first term belongs to the first person named. Hui Min is named first, so Hui Min gets 3 units and Imran gets 5 units.",
+    "hint1": "Which person was named first in the ratio statement?",
+    "hint2": "Hui Min comes first, so the first number (3) belongs to Hui Min.",
+    "visualData": {
+      "claimLines": [
+        "The ratio of Hui Min's money to Imran's money is 3 : 5. Hui Min gets 5 units because 5 is larger."
+      ],
+      "isTrue": false
+    }
+  },
+  {
+    "id": 83,
+    "districtId": 8,
+    "category": "INSPECTOR & REASONING",
+    "visual": "worksheetCard",
+    "questionText": "Detective check: \"To share $80 in the ratio 1 : 3, total units are 1 + 3 = 4, and 1 unit is $80 ÷ 4 = $20.\" Is this statement correct?",
+    "options": [
+      "True — total units is the sum of terms, and 1 unit is total ÷ total units",
+      "False — you should divide $80 by 3",
+      "False — you should divide $80 by 1",
+      "False — 1 unit is $80 × 4"
+    ],
+    "correctAnswer": "True — total units is the sum of terms, and 1 unit is total ÷ total units",
+    "explanation": "This is the correct unitary method: find total units by adding the terms (1 + 3 = 4), then divide the total by total units ($80 ÷ 4 = $20).",
+    "hint1": "Check if 1 + 3 = 4 units and $80 ÷ 4 = $20.",
+    "hint2": "The steps follow the standard unitary ratio procedure exactly.",
+    "visualData": {
+      "claimLines": [
+        "To share $80 in the ratio 1 : 3, total units are 1 + 3 = 4, and 1 unit is $80 ÷ 4 = $20."
+      ],
+      "isTrue": true
+    }
+  },
+  {
+    "id": 84,
+    "districtId": 8,
+    "category": "INSPECTOR & REASONING",
+    "visual": "worksheetCard",
+    "questionText": "Detective check: \"After sharing $100 in the ratio 2 : 3, the shares are $40 and $60. Does $40 + $60 = $100 confirm the check?\" Is this statement correct?",
+    "options": [
+      "False — the sum check only works for equal splits",
+      "False — you should subtract the shares instead",
+      "False — shares should add to double the total",
+      "True — the shares must always add back to the total"
+    ],
+    "correctAnswer": "True — the shares must always add back to the total",
+    "explanation": "The fundamental self-check of ratio sharing is that all individual shares must add up to the original total.",
+    "hint1": "Do individual parts together form the whole?",
+    "hint2": "Checking that the sum of the shares equals the starting total confirms no quantity was lost.",
+    "visualData": {
+      "claimLines": [
+        "After sharing $100 in the ratio 2 : 3, the shares are $40 and $60. Does $40 + $60 = $100 confirm the check?"
+      ],
+      "isTrue": true
+    }
+  },
+  {
+    "id": 85,
+    "districtId": 8,
+    "category": "INSPECTOR & REASONING",
+    "visual": "worksheetCard",
+    "questionText": "Detective check: \"Priya shares 45 pencils in the ratio 2 : 7. She says 1 unit = 45 ÷ 9 = 5 pencils.\" Is this statement correct?",
+    "options": [
+      "False — she should divide 45 by 2",
+      "False — total units is 2 × 7 = 14",
+      "True — total units is 2 + 7 = 9, so 1 unit is 45 ÷ 9 = 5",
+      "False — she should divide 45 by 7"
+    ],
+    "correctAnswer": "True — total units is 2 + 7 = 9, so 1 unit is 45 ÷ 9 = 5",
+    "explanation": "Total units = 2 + 7 = 9. Dividing total 45 by 9 gives 5 pencils per unit. This is correct.",
+    "hint1": "What is 2 + 7? Does 45 divide evenly by it?",
+    "hint2": "9 units = 45, so 1 unit = 5. The claim is completely true.",
+    "visualData": {
+      "claimLines": [
+        "Priya shares 45 pencils in the ratio 2 : 7. She says 1 unit = 45 ÷ 9 = 5 pencils."
+      ],
+      "isTrue": true
+    }
+  },
+  {
+    "id": 86,
+    "districtId": 8,
+    "category": "INSPECTOR & REASONING",
+    "visual": "worksheetCard",
+    "questionText": "Detective check: \"Hui Min, Imran and Priya share $90 in the ratio 1 : 2 : 3. Imran claims his share is $30.\" Is this statement correct?",
+    "options": [
+      "True — total units = 6, 1 unit = $15, Imran gets 2 × $15 = $30",
+      "False — Imran gets $90 ÷ 2 = $45",
+      "False — total units is 5",
+      "False — 1 unit is $30, so Imran gets $60"
+    ],
+    "correctAnswer": "True — total units = 6, 1 unit = $15, Imran gets 2 × $15 = $30",
+    "explanation": "Total units = 1 + 2 + 3 = 6. 1 unit = $90 ÷ 6 = $15. Imran has 2 units, so 2 × $15 = $30. The claim is true.",
+    "hint1": "Find total units (1 + 2 + 3 = 6) and 1 unit ($90 ÷ 6 = $15).",
+    "hint2": "Imran has 2 units: 2 × $15 = $30.",
+    "visualData": {
+      "claimLines": [
+        "Hui Min, Imran and Priya share $90 in the ratio 1 : 2 : 3. Imran claims his share is $30."
+      ],
+      "isTrue": true
+    }
+  },
+  {
+    "id": 87,
+    "districtId": 8,
+    "category": "INSPECTOR & REASONING",
+    "visual": "worksheetCard",
+    "questionText": "Detective check: \"If Hui Min : Imran = 4 : 5 and Hui Min gets $40, Imran must get $50.\" Is this statement correct?",
+    "options": [
+      "False — Imran gets $40 + 5 = $45",
+      "False — 1 unit is $40 ÷ 5 = $8",
+      "False — Imran gets less than Hui Min",
+      "True — 4 units = $40 means 1 unit = $10, so 5 units = $50"
+    ],
+    "correctAnswer": "True — 4 units = $40 means 1 unit = $10, so 5 units = $50",
+    "explanation": "4 units = $40, so 1 unit = $40 ÷ 4 = $10. Imran has 5 units: 5 × $10 = $50. The claim is true.",
+    "hint1": "If 4 units = $40, how much is 1 unit?",
+    "hint2": "1 unit is $10. Imran has 5 units: 5 × $10 = $50.",
+    "visualData": {
+      "claimLines": [
+        "If Hui Min : Imran = 4 : 5 and Hui Min gets $40, Imran must get $50."
+      ],
+      "isTrue": true
+    }
+  },
+  {
+    "id": 88,
+    "districtId": 8,
+    "category": "INSPECTOR & REASONING",
+    "visual": "worksheetCard",
+    "questionText": "Detective check: \"Two stallholders share takings 3 : 4. One gets $15 more. A student says total units = 7, so total = 7 × $15 = $105.\" Is this statement correct?",
+    "options": [
+      "False — you cannot find the total from the difference",
+      "False — difference is always 2 units",
+      "True — difference is 1 unit = $15, so total is 7 × $15 = $105",
+      "False — total is $15 × 3 = $45"
+    ],
+    "correctAnswer": "True — difference is 1 unit = $15, so total is 7 × $15 = $105",
+    "explanation": "The difference between 4 and 3 is 1 unit! Since 1 unit = $15, the total (7 units) is 7 × $15 = $105.",
+    "hint1": "What is 4 − 3? How many units is the difference?",
+    "hint2": "4 − 3 = 1 unit. Here the difference IS 1 unit, so total = 7 × $15 = $105.",
+    "visualData": {
+      "claimLines": [
+        "Two stallholders share takings 3 : 4. One gets $15 more. A student says total units = 7, so total = 7 × $15 = $105."
+      ],
+      "isTrue": true
+    }
+  },
+  {
+    "id": 89,
+    "districtId": 8,
+    "category": "INSPECTOR & REASONING",
+    "visual": "worksheetCard",
+    "questionText": "Detective check: \"In a 2 : 3 ratio of 50 cupcakes, each person gets 25 cupcakes because 50 ÷ 2 = 25.\" Is this statement correct?",
+    "options": [
+      "No — 25 each is an equal split, not the 2 : 3 ratio (20 and 30)",
+      "Yes — 50 ÷ 2 is always the first step",
+      "Yes — fair sharing always means dividing by 2",
+      "Cannot be determined"
+    ],
+    "correctAnswer": "No — 25 each is an equal split, not the 2 : 3 ratio (20 and 30)",
+    "explanation": "Dividing by 2 splits the quantity in half (1 : 1). A 2 : 3 ratio has 5 units: 1 unit = 10, giving 20 and 30 cupcakes.",
+    "hint1": "Does sharing in ratio 2 : 3 mean both people get the same amount?",
+    "hint2": "Equal split is 25 each, but 2 : 3 means 5 units (20 and 30).",
+    "visualData": {
+      "claimLines": [
+        "In a 2 : 3 ratio of 50 cupcakes, each person gets 25 cupcakes because 50 ÷ 2 = 25."
+      ],
+      "isTrue": false
+    }
+  },
+  {
+    "id": 90,
+    "districtId": 9,
+    "category": "GRAND FAIR FINALE",
+    "visual": "givenBar",
+    "questionText": "Hui Min, Imran and Priya share some stickers in the ratio 7 : 5 : 2. Priya gets 50 stickers. How many stickers does Imran get?",
+    "options": [
+      "700 stickers",
+      "125 stickers",
+      "350 stickers",
+      "25 stickers"
+    ],
+    "correctAnswer": "125 stickers",
+    "explanation": "Priya's share is 2 units = 50 stickers, so 1 unit = 50 ÷ 2 = 25. Imran has 5 units × 25 = 125 stickers.",
+    "hint1": "Use Priya's share (50) to find the value of 1 unit: divide by 2.",
+    "hint2": "1 unit = 25. Multiply by Imran's units (5).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        7,
+        5,
+        2
+      ],
+      "knownIndex": 2,
+      "knownValue": 50,
+      "askTarget": 1
+    }
+  },
+  {
+    "id": 91,
+    "districtId": 9,
+    "category": "GRAND FAIR FINALE",
+    "visual": "diffBar",
+    "questionText": "Hui Min and Imran share some cupcakes in the ratio 7 : 3. Hui Min gets 8 cupcakes more than Imran. Find the total amount shared.",
+    "options": [
+      "2 cupcakes",
+      "56 cupcakes",
+      "20 cupcakes",
+      "14 cupcakes"
+    ],
+    "correctAnswer": "20 cupcakes",
+    "explanation": "Difference in units = 7 − 3 = 4 units. 4 units = 8 cupcakes, so 1 unit = 8 ÷ 4 = 2. Total units = 10. Total = 10 × 2 = 20 cupcakes.",
+    "hint1": "The difference is 7 − 3 = 4 units.",
+    "hint2": "4 units = 8 cupcakes, so 1 unit = 2. Now multiply by total units (10).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        7,
+        3
+      ],
+      "i": 0,
+      "j": 1,
+      "diffValue": 8,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 92,
+    "districtId": 9,
+    "category": "GRAND FAIR FINALE",
+    "visual": "comboBar",
+    "questionText": "Hui Min, Imran and Priya share tokens in the ratio 5 : 7 : 2. Hui Min and Imran have 72 tokens altogether. How many tokens does Priya have?",
+    "options": [
+      "84 tokens",
+      "6 tokens",
+      "12 tokens",
+      "72 tokens"
+    ],
+    "correctAnswer": "12 tokens",
+    "explanation": "Hui Min and Imran together have 5 + 7 = 12 units. 12 units = 72 tokens, so 1 unit = 72 ÷ 12 = 6. Priya has 2 units × 6 = 12 tokens.",
+    "hint1": "Add the units for Hui Min and Imran: 5 + 7 = 12 units.",
+    "hint2": "1 unit = 72 ÷ 12 = 6. Multiply by Priya's units (2).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        5,
+        7,
+        2
+      ],
+      "idxs": [
+        0,
+        1
+      ],
+      "pairValue": 72,
+      "askTarget": 2
+    }
+  },
+  {
+    "id": 93,
+    "districtId": 9,
+    "category": "GRAND FAIR FINALE",
+    "visual": "shareBar",
+    "questionText": "$100 is shared among Hui Min and Imran in the ratio 3 : 2. How much more does Hui Min get than Imran?",
+    "options": [
+      "$40",
+      "$1",
+      "$60",
+      "$20"
+    ],
+    "correctAnswer": "$20",
+    "explanation": "Total units = 5. Value of 1 unit = 100 ÷ 5 = 20. The unit difference between Hui Min and Imran is 3 − 2 = 1 units. Real difference = 1 × 20 = $20.",
+    "hint1": "Find 1 unit first: 100 ÷ 5 = 20.",
+    "hint2": "Unit gap is 3 − 2 = 1 units. Multiply 1 by 20 to get the answer in dollars.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        3,
+        2
+      ],
+      "unit": 20,
+      "total": 100,
+      "compareIndices": [
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": 94,
+    "districtId": 9,
+    "category": "GRAND FAIR FINALE",
+    "visual": "nestedBar",
+    "questionText": "$110 is shared between Hui Min and Imran in the ratio 2 : 9. Hui Min spends 1/2 of their share. How much money does Hui Min have left?",
+    "options": [
+      "$90",
+      "$100",
+      "$20",
+      "$10"
+    ],
+    "correctAnswer": "$10",
+    "explanation": "Total units = 11. 1 unit = 110 ÷ 11 = 10. Hui Min's original share = 2 × 10 = $20. Spent = 1/2 of 20 = $10. Leftover = 20 − 10 = $10.",
+    "hint1": "First find Hui Min's share: 2 × (110 ÷ 11).",
+    "hint2": "Hui Min had $20 and spent 1/2 ($10). Subtract to find what is left.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        2,
+        9
+      ],
+      "unit": 10,
+      "spendIdx": 0,
+      "spendFraction": "1/2",
+      "remaining": 10
+    }
+  },
+  {
+    "id": 95,
+    "districtId": 9,
+    "category": "GRAND FAIR FINALE",
+    "visual": "givenBar",
+    "questionText": "Hui Min and Imran share some points in the ratio 8 : 3. Imran gets 45 points. How many points are there altogether?",
+    "options": [
+      "165 points",
+      "15 points",
+      "495 points",
+      "120 points"
+    ],
+    "correctAnswer": "165 points",
+    "explanation": "Imran's share is 3 units = 45 points, so 1 unit = 45 ÷ 3 = 15. Total units = 11. Total points = 11 × 15 = 165 points.",
+    "hint1": "Use Imran's share (45) to find the value of 1 unit: divide by 3.",
+    "hint2": "1 unit = 15. Multiply by the total units (11).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        8,
+        3
+      ],
+      "knownIndex": 1,
+      "knownValue": 45,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 96,
+    "districtId": 9,
+    "category": "GRAND FAIR FINALE",
+    "visual": "diffBar",
+    "questionText": "Hui Min and Imran share some tokens in the ratio 10 : 1. Hui Min gets 72 tokens more than Imran. Find the total amount shared.",
+    "options": [
+      "80 tokens",
+      "88 tokens",
+      "8 tokens",
+      "720 tokens"
+    ],
+    "correctAnswer": "88 tokens",
+    "explanation": "Difference in units = 10 − 1 = 9 units. 9 units = 72 tokens, so 1 unit = 72 ÷ 9 = 8. Total units = 11. Total = 11 × 8 = 88 tokens.",
+    "hint1": "The difference is 10 − 1 = 9 units.",
+    "hint2": "9 units = 72 tokens, so 1 unit = 8. Now multiply by total units (11).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        10,
+        1
+      ],
+      "i": 0,
+      "j": 1,
+      "diffValue": 72,
+      "askTarget": "total"
+    }
+  },
+  {
+    "id": 97,
+    "districtId": 9,
+    "category": "GRAND FAIR FINALE",
+    "visual": "comboBar",
+    "questionText": "Hui Min, Imran and Priya share dollars in the ratio 1 : 2 : 7. Hui Min and Imran have $18 altogether. How many dollars does Priya have?",
+    "options": [
+      "$42",
+      "$6",
+      "$60",
+      "$18"
+    ],
+    "correctAnswer": "$42",
+    "explanation": "Hui Min and Imran together have 1 + 2 = 3 units. 3 units = $18, so 1 unit = 18 ÷ 3 = 6. Priya has 7 units × 6 = $42.",
+    "hint1": "Add the units for Hui Min and Imran: 1 + 2 = 3 units.",
+    "hint2": "1 unit = 18 ÷ 3 = 6. Multiply by Priya's units (7).",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran",
+        "Priya"
+      ],
+      "terms": [
+        1,
+        2,
+        7
+      ],
+      "idxs": [
+        0,
+        1
+      ],
+      "pairValue": 18,
+      "askTarget": 2
+    }
+  },
+  {
+    "id": 98,
+    "districtId": 9,
+    "category": "GRAND FAIR FINALE",
+    "visual": "shareBar",
+    "questionText": "75 tickets is shared among Hui Min and Imran in the ratio 2 : 1. How much more does Hui Min get than Imran?",
+    "options": [
+      "1 ticket",
+      "25 tickets",
+      "75 tickets",
+      "50 tickets"
+    ],
+    "correctAnswer": "25 tickets",
+    "explanation": "Total units = 3. Value of 1 unit = 75 ÷ 3 = 25. The unit difference between Hui Min and Imran is 2 − 1 = 1 units. Real difference = 1 × 25 = 25 tickets.",
+    "hint1": "Find 1 unit first: 75 ÷ 3 = 25.",
+    "hint2": "Unit gap is 2 − 1 = 1 units. Multiply 1 by 25 to get the answer in tickets.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        2,
+        1
+      ],
+      "unit": 25,
+      "total": 75,
+      "compareIndices": [
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": 99,
+    "districtId": 9,
+    "category": "GRAND FAIR FINALE",
+    "visual": "nestedBar",
+    "questionText": "$24 is shared between Hui Min and Imran in the ratio 1 : 5. Imran spends 1/4 of their share. How much money does Imran have left?",
+    "options": [
+      "$15",
+      "$20",
+      "$19",
+      "$5"
+    ],
+    "correctAnswer": "$15",
+    "explanation": "Total units = 6. 1 unit = 24 ÷ 6 = 4. Imran's original share = 5 × 4 = $20. Spent = 1/4 of 20 = $5. Leftover = 20 − 5 = $15.",
+    "hint1": "First find Imran's share: 5 × (24 ÷ 6).",
+    "hint2": "Imran had $20 and spent 1/4 ($5). Subtract to find what is left.",
+    "visualData": {
+      "names": [
+        "Hui Min",
+        "Imran"
+      ],
+      "terms": [
+        1,
+        5
+      ],
+      "unit": 4,
+      "spendIdx": 1,
+      "spendFraction": "1/4",
+      "remaining": 15
+    }
+  }
+]

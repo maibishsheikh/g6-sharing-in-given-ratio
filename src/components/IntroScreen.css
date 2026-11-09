@@ -1,0 +1,293 @@
+/* src/components/IntroScreen.css */
+.intro-wrap {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 24px 16px 40px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  -webkit-overflow-scrolling: touch;
+  position: relative;
+  z-index: 1;
+  font-family: 'Fredoka', 'Quicksand', sans-serif;
+  width: 100%;
+  min-height: 100%;
+  box-sizing: border-box;
+}
+
+.intro-top-badge {
+  background: rgba(255, 255, 255, 0.16);
+  color: white;
+  padding: 6px 20px;
+  border-radius: 20px;
+  font-size: 0.95rem;
+  font-weight: 800;
+  margin-bottom: 12px;
+  backdrop-filter: blur(8px);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+}
+
+.intro-title {
+  font-size: clamp(2.4rem, 4.8vw, 3.8rem);
+  font-weight: 900;
+  line-height: 1.05;
+  margin: 0;
+  text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.25);
+  text-align: center;
+}
+.text-orange { color: #ff9f43; }
+.text-white  { color: #ffffff; }
+
+.intro-subtitle {
+  color: #feca57;
+  font-size: clamp(1.1rem, 2vw, 1.45rem);
+  font-weight: 800;
+  margin-top: 4px;
+  margin-bottom: 14px;
+  text-align: center;
+}
+
+/* Mascot + Bubble */
+.intro-mascot-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 14px;
+}
+.intro-mascot-circle {
+  width: 58px;
+  height: 58px;
+  background: radial-gradient(circle, #ffd54f 0%, #ff9f43 100%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 2rem;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+  border: 2.5px solid rgba(255, 255, 255, 0.35);
+  flex-shrink: 0;
+}
+.intro-speech-bubble {
+  background: white;
+  color: #2b2b2b;
+  padding: 12px 24px;
+  border-radius: 20px;
+  font-weight: 800;
+  position: relative;
+  font-size: 1.12rem;
+  line-height: 1.4;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.22);
+}
+.intro-speech-bubble::before {
+  content: '';
+  position: absolute;
+  left: -8px;
+  top: 50%;
+  transform: translateY(-50%);
+  border-width: 8px 10px 8px 0;
+  border-style: solid;
+  border-color: transparent white transparent transparent;
+}
+
+.intro-desc {
+  color: #d1d8e0;
+  max-width: 680px;
+  text-align: center;
+  font-size: clamp(1.08rem, 1.35vw, 1.28rem);
+  line-height: 1.5;
+  margin-bottom: 18px;
+}
+.text-yellow { color: #feca57; font-weight: 800; }
+
+/* Journey Card */
+.journey-card {
+  background: rgba(30, 30, 65, 0.65);
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  border-radius: 20px;
+  padding: clamp(12px, 2vw, 18px) clamp(12px, 2vw, 24px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 18px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+  max-width: min(1080px, 98vw);
+  width: 100%;
+  backdrop-filter: blur(14px);
+  box-sizing: border-box;
+}
+.journey-card-title {
+  color: #feca57;
+  font-weight: 900;
+  font-size: 0.92rem;
+  letter-spacing: 1px;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.journey-steps-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  box-sizing: border-box;
+}
+.journey-single-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: clamp(4px, 0.8vw, 10px);
+  width: 100%;
+  flex-wrap: nowrap;
+  overflow: visible;
+  padding: 4px 0;
+  box-sizing: border-box;
+}
+
+.journey-step-item {
+  display: flex;
+  align-items: center;
+  gap: clamp(4px, 0.6vw, 8px);
+}
+.clickable-step {
+  flex: 1 1 0;
+  min-width: 0;
+  cursor: pointer;
+  padding: clamp(6px, 1vh, 10px) clamp(6px, 0.8vw, 12px);
+  border-radius: 14px;
+  transition: all 0.2s ease;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-sizing: border-box;
+}
+.clickable-step:hover {
+  background: rgba(254, 202, 87, 0.18);
+  border-color: rgba(254, 202, 87, 0.5);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 14px rgba(254, 202, 87, 0.25);
+}
+.clickable-step:active {
+  transform: translateY(0);
+}
+.journey-icon-circle {
+  width: clamp(28px, 2.5vw, 38px);
+  height: clamp(28px, 2.5vw, 38px);
+  background: radial-gradient(circle, rgba(93, 63, 211, 0.4) 0%, rgba(50, 30, 90, 0.8) 100%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: clamp(1rem, 1.25vw, 1.25rem);
+  border: 1.5px solid rgba(130, 100, 240, 0.35);
+  flex-shrink: 0;
+}
+.journey-text-col {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  overflow: hidden;
+}
+.journey-item-title {
+  color: #ffffff;
+  font-weight: 800;
+  font-size: clamp(0.78rem, 0.95vw, 1rem);
+  white-space: nowrap;
+  line-height: 1.2;
+}
+.journey-item-desc {
+  color: #a4b0be;
+  font-size: clamp(0.66rem, 0.78vw, 0.78rem);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  line-height: 1.2;
+}
+.journey-arrow {
+  color: rgba(255, 255, 255, 0.35);
+  font-size: clamp(0.85rem, 1.1vw, 1.15rem);
+  flex-shrink: 0;
+}
+.fade-arrow {
+  mask-image: linear-gradient(to right, #000 0%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to right, #000 0%, transparent 100%);
+}
+
+.intro-ctas {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 18px;
+  gap: 12px;
+}
+.intro-cta-main {
+  font-size: 1.3rem;
+  padding: 16px 44px;
+}
+
+.intro-bottom-cards {
+  display: flex;
+  gap: 14px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.bottom-card {
+  background: rgba(30, 30, 60, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 16px;
+  padding: 10px 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 6px;
+  color: #d1d8e0;
+  font-size: 0.95rem;
+  font-weight: 800;
+  width: 150px;
+  backdrop-filter: blur(10px);
+}
+.bottom-card-icon {
+  font-size: 1.8rem;
+}
+
+@media (max-width: 960px) {
+  .journey-arrow { display: none; }
+  .clickable-step { padding: 6px 6px; }
+}
+
+@media (max-width: 768px) {
+  .journey-arrow { display: none; }
+  .journey-single-row {
+    justify-content: space-around;
+    gap: 4px;
+    width: 100%;
+    overflow-x: visible;
+    padding: 2px 0;
+  }
+  .clickable-step {
+    padding: 6px 4px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4px;
+    min-width: 52px;
+  }
+  .journey-icon-circle {
+    width: 32px;
+    height: 32px;
+    font-size: 1.1rem;
+  }
+  .journey-text-col {
+    align-items: center;
+    text-align: center;
+  }
+  .journey-item-title {
+    font-size: 0.76rem;
+    white-space: nowrap;
+  }
+  .journey-item-desc {
+    display: none; /* Hide detailed desc on mobile so all 5 phases stay strictly in one line */
+  }
+  .intro-title { font-size: 2.2rem; }
+  .bottom-card { width: 120px; padding: 8px 12px; font-size: 0.85rem; }
+}
